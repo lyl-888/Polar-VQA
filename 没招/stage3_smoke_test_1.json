@@ -1,0 +1,650 @@
+[
+  {
+    "image": "GT/23/0000_rgb.png",
+    "input_path": "rgb/23/0000_rgb.png",
+    "gt_path": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.6625816993464052,
+      0.01953125,
+      0.7173202614379085,
+      0.486328125
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the primary object in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "There is a blue chair with a metal frame"
+      }
+    ]
+  },
+  {
+    "image": "GT/23/0000_rgb.png",
+    "input_path": "rgb/23/0000_rgb.png",
+    "gt_path": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "type": "typeB_visual",
+    "subtype": "detail",
+    "bbox_norm": [
+      0.6625816993464052,
+      0.01953125,
+      0.7173202614379085,
+      0.486328125
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the color and material of the chair?"
+      },
+      {
+        "from": "gpt",
+        "value": "The chair is blue and made of metal"
+      }
+    ]
+  },
+  {
+    "image": "GT/23/0000_rgb.png",
+    "input_path": "rgb/23/0000_rgb.png",
+    "gt_path": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.6625816993464052,
+      0.01953125,
+      0.7173202614379085,
+      0.486328125
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is to the right of the window?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a blue chair"
+      }
+    ]
+  },
+  {
+    "image": "GT/23/0000_rgb.png",
+    "input_path": "rgb/23/0001_rgb.png",
+    "gt_path": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.571078431372549,
+      0.01953125,
+      0.619281045751634,
+      0.4501953125
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the key object in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "There is a blue chair with a metal frame"
+      }
+    ]
+  },
+  {
+    "image": "GT/23/0000_rgb.png",
+    "input_path": "rgb/23/0001_rgb.png",
+    "gt_path": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "type": "typeB_visual",
+    "subtype": "detail",
+    "bbox_norm": [
+      0.571078431372549,
+      0.01953125,
+      0.619281045751634,
+      0.4501953125
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the color and material of the chair?"
+      },
+      {
+        "from": "gpt",
+        "value": "The chair is blue and made of metal"
+      }
+    ]
+  },
+  {
+    "image": "GT/23/0000_rgb.png",
+    "input_path": "rgb/23/0001_rgb.png",
+    "gt_path": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.571078431372549,
+      0.01953125,
+      0.619281045751634,
+      0.4501953125
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is to the right of the window?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a blue chair"
+      }
+    ]
+  },
+  {
+    "image": "GT/23/0000_rgb.png",
+    "input_path": "rgb/23/0002_rgb.png",
+    "gt_path": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.5285947712418301,
+      0.01953125,
+      0.5727124183006536,
+      0.4365234375
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the main object shown in this image?"
+      },
+      {
+        "from": "gpt",
+        "value": "There is a window with a wooden frame and glass panes"
+      }
+    ]
+  },
+  {
+    "image": "GT/23/0000_rgb.png",
+    "input_path": "rgb/23/0002_rgb.png",
+    "gt_path": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "type": "typeB_visual",
+    "subtype": "detail",
+    "bbox_norm": [
+      0.5285947712418301,
+      0.01953125,
+      0.5727124183006536,
+      0.4365234375
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the color and material of the window?"
+      },
+      {
+        "from": "gpt",
+        "value": "The window has a brown wooden frame and transparent glass panes"
+      }
+    ]
+  },
+  {
+    "image": "GT/23/0000_rgb.png",
+    "input_path": "rgb/23/0002_rgb.png",
+    "gt_path": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.5285947712418301,
+      0.01953125,
+      0.5727124183006536,
+      0.4365234375
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is to the right of the window?"
+      },
+      {
+        "from": "gpt",
+        "value": "To the right of the window, there is a potted plant"
+      }
+    ]
+  },
+  {
+    "image": "GT/24/0000_rgb.png",
+    "input_path": "rgb/24/0000_rgb.png",
+    "gt_path": "GT/24/0000_rgb.png",
+    "scene_id": "24",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.5735294117647058,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What can you see in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The main object is a blue denim jacket with a textured fabric"
+      }
+    ]
+  },
+  {
+    "image": "GT/24/0000_rgb.png",
+    "input_path": "rgb/24/0000_rgb.png",
+    "gt_path": "GT/24/0000_rgb.png",
+    "scene_id": "24",
+    "type": "typeB_visual",
+    "subtype": "detail",
+    "bbox_norm": [
+      0.5735294117647058,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the color and material of the jacket?"
+      },
+      {
+        "from": "gpt",
+        "value": "The jacket is blue and made of denim material"
+      }
+    ]
+  },
+  {
+    "image": "GT/24/0000_rgb.png",
+    "input_path": "rgb/24/0000_rgb.png",
+    "gt_path": "GT/24/0000_rgb.png",
+    "scene_id": "24",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.5735294117647058,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is to the right of the jacket?"
+      },
+      {
+        "from": "gpt",
+        "value": "To the right of the jacket is a wooden table"
+      }
+    ]
+  },
+  {
+    "image": "GT/24/0000_rgb.png",
+    "input_path": "rgb/24/0001_rgb.png",
+    "gt_path": "GT/24/0000_rgb.png",
+    "scene_id": "24",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.5196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the key object in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "The main object is a blue denim jacket with a textured fabric"
+      }
+    ]
+  },
+  {
+    "image": "GT/24/0000_rgb.png",
+    "input_path": "rgb/24/0001_rgb.png",
+    "gt_path": "GT/24/0000_rgb.png",
+    "scene_id": "24",
+    "type": "typeB_visual",
+    "subtype": "detail",
+    "bbox_norm": [
+      0.5196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the color and material of the jacket?"
+      },
+      {
+        "from": "gpt",
+        "value": "The jacket is blue and made of denim material"
+      }
+    ]
+  },
+  {
+    "image": "GT/24/0000_rgb.png",
+    "input_path": "rgb/24/0001_rgb.png",
+    "gt_path": "GT/24/0000_rgb.png",
+    "scene_id": "24",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.5196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is to the right of the jacket?"
+      },
+      {
+        "from": "gpt",
+        "value": "To the right of the jacket is a wooden table"
+      }
+    ]
+  },
+  {
+    "image": "GT/24/0000_rgb.png",
+    "input_path": "rgb/24/0002_rgb.png",
+    "gt_path": "GT/24/0000_rgb.png",
+    "scene_id": "24",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.42483660130718953,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the primary object in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "The main object is a blue denim jacket with a textured fabric"
+      }
+    ]
+  },
+  {
+    "image": "GT/24/0000_rgb.png",
+    "input_path": "rgb/24/0002_rgb.png",
+    "gt_path": "GT/24/0000_rgb.png",
+    "scene_id": "24",
+    "type": "typeB_visual",
+    "subtype": "detail",
+    "bbox_norm": [
+      0.42483660130718953,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the color and material of the jacket?"
+      },
+      {
+        "from": "gpt",
+        "value": "The jacket is blue and made of denim material"
+      }
+    ]
+  },
+  {
+    "image": "GT/24/0000_rgb.png",
+    "input_path": "rgb/24/0002_rgb.png",
+    "gt_path": "GT/24/0000_rgb.png",
+    "scene_id": "24",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.42483660130718953,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is to the right of the jacket?"
+      },
+      {
+        "from": "gpt",
+        "value": "It is a wooden table"
+      }
+    ]
+  },
+  {
+    "image": "GT/25/0000_rgb.png",
+    "input_path": "rgb/25/0000_rgb.png",
+    "gt_path": "GT/25/0000_rgb.png",
+    "scene_id": "25",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.0196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please briefly describe the main object in this image."
+      },
+      {
+        "from": "gpt",
+        "value": "There is a blue curtain hanging in front of a window"
+      }
+    ]
+  },
+  {
+    "image": "GT/25/0000_rgb.png",
+    "input_path": "rgb/25/0000_rgb.png",
+    "gt_path": "GT/25/0000_rgb.png",
+    "scene_id": "25",
+    "type": "typeB_visual",
+    "subtype": "detail",
+    "bbox_norm": [
+      0.0196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the color and material of the curtain?"
+      },
+      {
+        "from": "gpt",
+        "value": "The curtain is blue and made of a semi-transparent fabric"
+      }
+    ]
+  },
+  {
+    "image": "GT/25/0000_rgb.png",
+    "input_path": "rgb/25/0000_rgb.png",
+    "gt_path": "GT/25/0000_rgb.png",
+    "scene_id": "25",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.0196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is to the right of the curtain?"
+      },
+      {
+        "from": "gpt",
+        "value": "To the right of the curtain is a window"
+      }
+    ]
+  },
+  {
+    "image": "GT/25/0000_rgb.png",
+    "input_path": "rgb/25/0001_rgb.png",
+    "gt_path": "GT/25/0000_rgb.png",
+    "scene_id": "25",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.0196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What can you see in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "There is a window with a view of a building"
+      }
+    ]
+  },
+  {
+    "image": "GT/25/0000_rgb.png",
+    "input_path": "rgb/25/0001_rgb.png",
+    "gt_path": "GT/25/0000_rgb.png",
+    "scene_id": "25",
+    "type": "typeB_visual",
+    "subtype": "detail",
+    "bbox_norm": [
+      0.0196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the color and material of the window?"
+      },
+      {
+        "from": "gpt",
+        "value": "The window is made of glass and has a metallic frame"
+      }
+    ]
+  },
+  {
+    "image": "GT/25/0000_rgb.png",
+    "input_path": "rgb/25/0001_rgb.png",
+    "gt_path": "GT/25/0000_rgb.png",
+    "scene_id": "25",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.0196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is to the right of the window?"
+      },
+      {
+        "from": "gpt",
+        "value": "To the right of the window, there is a curtain"
+      }
+    ]
+  },
+  {
+    "image": "GT/25/0000_rgb.png",
+    "input_path": "rgb/25/0002_rgb.png",
+    "gt_path": "GT/25/0000_rgb.png",
+    "scene_id": "25",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.0196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the primary object in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "There is a blue curtain hanging in front of a window"
+      }
+    ]
+  },
+  {
+    "image": "GT/25/0000_rgb.png",
+    "input_path": "rgb/25/0002_rgb.png",
+    "gt_path": "GT/25/0000_rgb.png",
+    "scene_id": "25",
+    "type": "typeB_visual",
+    "subtype": "detail",
+    "bbox_norm": [
+      0.0196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the color and material of the curtain?"
+      },
+      {
+        "from": "gpt",
+        "value": "The curtain is blue and made of a semi-transparent fabric"
+      }
+    ]
+  },
+  {
+    "image": "GT/25/0000_rgb.png",
+    "input_path": "rgb/25/0002_rgb.png",
+    "gt_path": "GT/25/0000_rgb.png",
+    "scene_id": "25",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.0196078431372549,
+      0.01953125,
+      0.9803921568627451,
+      0.98046875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What object is to the right of the curtain?"
+      },
+      {
+        "from": "gpt",
+        "value": "To the right of the curtain is a window"
+      }
+    ]
+  }
+]

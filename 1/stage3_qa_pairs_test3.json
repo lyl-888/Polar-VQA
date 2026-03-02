@@ -1,0 +1,470 @@
+[
+  {
+    "id": "17_0000_rgb.png",
+    "image": "rgb/17/0000_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.05555555555555555,
+      0.09765625
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.000, 0.000, 0.056, 0.098]?",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is made of metal with a blue color"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  },
+  {
+    "id": "17_0001_rgb.png",
+    "image": "rgb/17/0001_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.06781045751633986,
+      0.05078125
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.000, 0.000, 0.068, 0.051]?",
+      "a": "A blue cabinet"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of metal with a blue finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the cabinet?",
+      "a": "A window"
+    }
+  },
+  {
+    "id": "17_0002_rgb.png",
+    "image": "rgb/17/0002_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.18137254901960784,
+      0.14453125
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.000, 0.000, 0.181, 0.145]?",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is made of metal with a blue surface"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  },
+  {
+    "id": "17_0003_rgb.png",
+    "image": "rgb/17/0003_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.03676470588235294,
+      0.0,
+      0.1715686274509804,
+      0.08984375
+    ],
+    "qa_content": {
+      "q": "Focus on region [0.037, 0.000, 0.172, 0.090]. What is this?",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is made of metal with a blue color"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  },
+  {
+    "id": "17_0005_rgb.png",
+    "image": "rgb/17/0005_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content in the region [0.000, 0.000, 1.000, 1.000].",
+      "a": "The image shows a pair of orange recycling bins placed next to a blue wall with a brick pattern. The bins have black text and symbols on them, including a recycling symbol and a picture of a person holding a recycling bin. There are also Chinese characters on the bins, suggesting they are located in a Chinese-speaking region. The bins are situated on a ground that appears to be made of concrete or asphalt. The overall scene is an urban setting with a focus on recycling and waste management"
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0006_rgb.png",
+    "image": "rgb/17/0006_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content in the region [0.000, 0.000, 1.000, 1.000].",
+      "a": "The image shows a blue wall with a brick pattern, and there are two orange trash cans with black text and symbols on them. The trash cans have a recycling symbol and a handicapped symbol, indicating that they are accessible for people with disabilities. The trash cans are placed next to each other and are positioned against the blue wall. The overall scene suggests an urban environment, possibly a city street or a public area"
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0004_rgb.png",
+    "image": "rgb/17/0004_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.18872549019607843,
+      0.0,
+      0.28513071895424835,
+      0.1494140625
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.189, 0.000, 0.285, 0.149]?",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is made of metal with a blue finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  },
+  {
+    "id": "17_0007_rgb.png",
+    "image": "rgb/17/0007_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9607843137254902,
+      0.1591796875,
+      0.9918300653594772,
+      0.224609375
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.961, 0.159, 0.992, 0.225].",
+      "a": "A red apple"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the apple?",
+      "a": "It is a red fruit with a smooth surface"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the apple?",
+      "a": "A blue trash can"
+    }
+  },
+  {
+    "id": "17_0008_rgb.png",
+    "image": "rgb/17/0008_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9607843137254902,
+      0.1484375,
+      1.0,
+      0.208984375
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.961, 0.148, 1.000, 0.209].",
+      "a": "A red stop sign"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the stop sign?",
+      "a": "It is red with a reflective surface"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the stop sign?",
+      "a": "A blue trash can"
+    }
+  },
+  {
+    "id": "17_0009_rgb.png",
+    "image": "rgb/17/0009_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.934640522875817,
+      0.45703125,
+      1.0,
+      0.5029296875
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.935, 0.457, 1.000, 0.503]?",
+      "a": "A small orange trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is bright orange plastic with a smooth texture"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  },
+  {
+    "id": "17_0010_rgb.png",
+    "image": "rgb/17/0010_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.8031045751633987,
+      0.451171875,
+      0.8357843137254902,
+      0.4775390625
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.803, 0.451, 0.836, 0.478]?",
+      "a": "A trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is orange plastic with a glossy surface"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the trash can?",
+      "a": "A blue wall"
+    }
+  },
+  {
+    "id": "17_0011_rgb.png",
+    "image": "rgb/17/0011_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.22058823529411764,
+      0.0,
+      0.3145424836601307,
+      0.11328125
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.221, 0.000, 0.315, 0.113]?",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is made of metal with a blue finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  },
+  {
+    "id": "17_0012_rgb.png",
+    "image": "rgb/17/0012_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.2622549019607843,
+      0.0,
+      0.3602941176470588,
+      0.1259765625
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.262, 0.000, 0.360, 0.126].",
+      "a": "A red stop sign"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the stop sign?",
+      "a": "It is red with a reflective surface"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the stop sign?",
+      "a": "A blue trash can"
+    }
+  },
+  {
+    "id": "17_0013_rgb.png",
+    "image": "rgb/17/0013_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.21241830065359477,
+      0.0,
+      0.3741830065359477,
+      0.2099609375
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.212, 0.000, 0.374, 0.210]?",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is made of metal with a blue color"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  },
+  {
+    "id": "17_0014_rgb.png",
+    "image": "rgb/17/0014_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.22549019607843138,
+      0.0,
+      0.3790849673202614,
+      0.19921875
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.225, 0.000, 0.379, 0.199]?",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is a blue metal container with a smooth surface"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  },
+  {
+    "id": "17_0015_rgb.png",
+    "image": "rgb/17/0015_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.17892156862745098,
+      0.0,
+      0.36437908496732024,
+      0.189453125
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.179, 0.000, 0.364, 0.189].",
+      "a": "A trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is orange plastic with a glossy finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  },
+  {
+    "id": "17_0016_rgb.png",
+    "image": "rgb/17/0016_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.07434640522875817,
+      0.0,
+      0.32107843137254904,
+      0.2236328125
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.074, 0.000, 0.321, 0.224]?",
+      "a": "A person standing"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the person?",
+      "a": "It is a human with a light skin tone and wearing a dark shirt"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the person?",
+      "a": "A blue wall"
+    }
+  },
+  {
+    "id": "17_0017_rgb.png",
+    "image": "rgb/17/0017_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.3341503267973856,
+      0.232421875
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.000, 0.000, 0.334, 0.232].",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is made of metal with a blue color"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A window"
+    }
+  },
+  {
+    "id": "17_0018_rgb.png",
+    "image": "rgb/17/0018_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.29820261437908496,
+      0.189453125
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.000, 0.000, 0.298, 0.189].",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is made of metal with a blue color"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A window"
+    }
+  },
+  {
+    "id": "17_0019_rgb.png",
+    "image": "rgb/17/0019_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.09765625,
+      0.26552287581699346,
+      0.2158203125
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.000, 0.098, 0.266, 0.216]?",
+      "a": "A blue trash can"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the trash can?",
+      "a": "It is made of metal with a blue finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the trash can?",
+      "a": "A blue cabinet"
+    }
+  }
+]

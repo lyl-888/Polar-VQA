@@ -1,0 +1,3184 @@
+{
+  "total_samples": 352,
+  "valid_scores": 352,
+  "failed_to_parse": 0,
+  "average_score": 4.684659090909091,
+  "min_score": 1.0,
+  "max_score": 10.0,
+  "scores_distribution": {
+    "1-3": 149,
+    "4-6": 99,
+    "7-8": 56,
+    "9-10": 48
+  },
+  "examples": [
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the chair in the image.",
+      "gt_answer": "The boxed area displays the upper half of a dark metal chair, including its woven backrest and armrests.",
+      "model_answer": "The chair in the image is a black chair with a metal frame.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the chair in the image.",
+      "gt_answer": "It is dark brown in color, with a metal frame and a woven backrest and seat surface.",
+      "model_answer": "The chair in the image has a black and brown color scheme, and it is made of wood.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is on the left side of the round table in the image?",
+      "gt_answer": "It's a dark metal chair.",
+      "model_answer": "There is a chair on the left side of the round table in the image.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the table legs in the image.",
+      "gt_answer": "The boxed area displays dark metal table legs and chair legs placed on a green carpet.",
+      "model_answer": "The table legs in the image are made of metal.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the table legs in the image.",
+      "gt_answer": "They are made of dark brown metallic material.",
+      "model_answer": "The table legs in the image are made of metal and are black in color.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is behind the legs of the foreground table in the image?",
+      "gt_answer": "It's the legs of the chair.",
+      "model_answer": "A car is behind the legs of the foreground table in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the chair in the image.",
+      "gt_answer": "There is a black metal chair with a woven seat and backrest",
+      "model_answer": "The chair in the image is a metal chair, which is part of a table and chair set.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the chair in the image?",
+      "gt_answer": "The chair is black and made of metal with a woven seat and backrest",
+      "model_answer": "The chair in the image is black and made of metal.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the chair in the image?",
+      "gt_answer": "It is a round table",
+      "model_answer": "A table is to the right of the chair in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the chair in the image.",
+      "gt_answer": "There is a black metal chair with a woven seat and backrest",
+      "model_answer": "The chair in the image is a metal chair, which is part of a table and chair set.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the chair in the image?",
+      "gt_answer": "The chair is black and made of metal with a woven seat and backrest",
+      "model_answer": "The chair in the image is black and made of metal.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the chair in the image?",
+      "gt_answer": "It is a round table",
+      "model_answer": "A table is to the right of the chair in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the chair in the image.",
+      "gt_answer": "There is a black metal chair with a woven seat and backrest",
+      "model_answer": "The chair in the image is a metal chair, likely made of iron, and it is positioned next to a table.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the chair in the image?",
+      "gt_answer": "The chair is black and made of metal with a woven seat and backrest",
+      "model_answer": "The chair in the image is black and made of metal.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the table in the image?",
+      "gt_answer": "It is a black metal chair",
+      "model_answer": "A car is to the right of the table in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the chair in the image.",
+      "gt_answer": "There is a black metal chair with a woven seat and backrest",
+      "model_answer": "The chair in the image is a metal chair, which is part of a table and chair set.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the chair in the image?",
+      "gt_answer": "The chair is black and made of metal with a woven seat and backrest",
+      "model_answer": "The chair in the image is black and made of metal.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the chair in the image?",
+      "gt_answer": "It is a round table",
+      "model_answer": "A table is to the right of the chair in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the carpet in the image.",
+      "gt_answer": "There is a green carpet on the floor",
+      "model_answer": "The carpet in the image is green.",
+      "score": 9.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the carpet in the image?",
+      "gt_answer": "The carpet is green and appears to be made of a soft, textured material",
+      "model_answer": "The carpet in the image is green and made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the chair in the image?",
+      "gt_answer": "It is a green carpet",
+      "model_answer": "A table is to the right of the chair in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the chair in the image.",
+      "gt_answer": "There is a chair with a metal frame and a woven seat",
+      "model_answer": "The chair in the image is a black chair with a metal frame.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the chair in the image?",
+      "gt_answer": "The chair is black with a metal frame and a woven seat",
+      "model_answer": "The chair in the image is black and made of wood.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the left of the chair in the image?",
+      "gt_answer": "It is a table",
+      "model_answer": "A table is to the left of the chair in the image.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the plant in the image.",
+      "gt_answer": "There is a green plant in the selected range",
+      "model_answer": "The plant in the image is a large green tree, which is visible through the glass window.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the plant in the image?",
+      "gt_answer": "The plant is green and appears to be made of leaves",
+      "model_answer": "The plant in the image is green and made of plastic.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the plant in the image?",
+      "gt_answer": "It is a chair",
+      "model_answer": "A chair is to the right of the plant in the image.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the plant in the image.",
+      "gt_answer": "There is a green leafy plant in the selected range",
+      "model_answer": "The plant in the image is a large green plant, which is located near the table and chairs.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the plant in the image?",
+      "gt_answer": "The plant is green and appears to be made of organic material",
+      "model_answer": "The plant in the image is green and made of plastic.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "08",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the table in the image?",
+      "gt_answer": "It is a green leafy plant",
+      "model_answer": "A chair is to the right of the table in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lantern in the image.",
+      "gt_answer": "The area displays pink and red flowers blooming above the railing, as well as the legs of a person walking by.",
+      "model_answer": "The lantern in the image is a stained glass lantern, featuring a design of a rose. It is placed on a table, and it appears to be lit, creating a beautiful and colorful display.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the color and material of the flowers above the fence in the image.",
+      "gt_answer": "These flowers are pink and red, with a soft petal texture.",
+      "model_answer": "The flowers above the fence in the image are pink and made of glass.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object above the dark wooden railing in the image?",
+      "gt_answer": "It is a blooming pink and red flower.",
+      "model_answer": "The object above the dark wooden railing in the image is a stained glass lamp.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the curved bracket in the image.",
+      "gt_answer": "The boxed area displays the dark metal curved bracket of the desk lamp, with a wooden railing and flowers in the background.",
+      "model_answer": "The curved bracket in the image is a decorative piece that holds a stained glass lamp. It is positioned above the lamp, adding an artistic touch to the overall design.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the curved bracket in the image.",
+      "gt_answer": "It is a dark brown metallic material.",
+      "model_answer": "The curved bracket in the image is made of wood and is brown in color.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object on the upper right side of the main body of the desk lamp in the image?",
+      "gt_answer": "It is the curved bracket of the desk lamp.",
+      "model_answer": "The object on the upper right side of the main body of the desk lamp in the image is a vase.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lantern in the image.",
+      "gt_answer": "A dark brown wooden railing is displayed within the boxed area, with several pink flowers and green leaves behind it.",
+      "model_answer": "The lantern in the image is a stained glass lantern, featuring a design of a rose. It is hanging from a building, possibly a gazebo, and is illuminated by a light inside.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the railing in the image.",
+      "gt_answer": "It is a dark brown wooden material.",
+      "model_answer": "The railing in the image is made of wood and has a brown color.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object located on the top right side of the lamp in the image?",
+      "gt_answer": "It's a wooden railing.",
+      "model_answer": "The object located on the top right side of the lamp in the image is a bird.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the railing in the image.",
+      "gt_answer": "A dark brown wooden railing is displayed within the boxed area, with dense green plants and some building structures behind it.",
+      "model_answer": "The railing in the image is black and has a design on it. It is located near a stained glass lamp and a bunch of pink roses.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the railing in the image.",
+      "gt_answer": "It is a dark brown wooden material.",
+      "model_answer": "The railing in the image is made of wood and has a brown color.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is behind the headlights in the image?",
+      "gt_answer": "It's a wooden railing.",
+      "model_answer": "A stained glass lamp is behind the headlights in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lantern in the image.",
+      "gt_answer": "There is a hanging lantern with a stained glass design",
+      "model_answer": "The lantern in the image is a stained glass lantern, featuring a design of a rose. It is hanging from a building, possibly a gazebo, and is illuminated by a light inside.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the lantern in the image?",
+      "gt_answer": "The lantern is made of metal with a stained glass design featuring various colors including blue, yellow, and green",
+      "model_answer": "The lantern in the image is black and made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the hanging lantern in the image?",
+      "gt_answer": "There is a wooden railing to the right of the hanging lantern",
+      "model_answer": "A vase with flowers is to the right of the hanging lantern in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lantern in the image.",
+      "gt_answer": "There is a hanging lantern with a stained glass design featuring a star and floral patterns",
+      "model_answer": "The lantern in the image is a stained glass lamp with a glass shade, featuring a design of roses. It is placed on a table and appears to be lit, creating a warm and inviting atmosphere.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the lantern in the image?",
+      "gt_answer": "The lantern is made of metal with a black finish and has stained glass panels in various colors including blue, yellow, and green",
+      "model_answer": "The lantern in the image is black and made of glass.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is above the lantern in the image?",
+      "gt_answer": "There is a wooden railing above the lantern",
+      "model_answer": "Above the lantern in the image, there is a painting of a rose.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lantern in the image.",
+      "gt_answer": "There is a decorative lantern with a stained glass design",
+      "model_answer": "The lantern in the image is a stained glass lantern, featuring a design of a rose. It is placed on a table, and it appears to be lit, creating a beautiful and colorful display.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the lantern in the image?",
+      "gt_answer": "The lantern is made of metal with a dark finish and features stained glass panels in various colors including blue, yellow, and green",
+      "model_answer": "The lantern in the image is black and made of glass.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the decorative lantern in the image?",
+      "gt_answer": "It is a wooden fence",
+      "model_answer": "A vase is to the right of the decorative lantern in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image features a decorative lantern hanging from a wooden railing. The lantern has a stained glass design with various colors, including blue, yellow, and green, arranged in a symmetrical pattern. The background shows a garden with lush greenery and blooming pink roses. The overall scene has a warm and inviting atmosphere.",
+      "model_answer": "The image features a beautiful stained glass window with a rose design, which is illuminated by sunlight. The window is situated in front of a building, and the sunlight shines through it, creating a captivating scene. \n\nIn addition to the stained glass window, there are several potted plants placed around the area, adding a touch of greenery to the scene. Some of the plants are located near the window, while others are placed further away, creating a sense of depth and dimension in the image.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image features a decorative lantern hanging from a wooden railing. The lantern has a stained glass design with various colors, including blue, yellow, and green, arranged in a symmetrical pattern. The background shows a garden with lush greenery and blooming pink roses. The overall scene has a warm and inviting atmosphere.",
+      "model_answer": "The image features a beautiful cityscape with a large building in the background. In front of the building, there is a vase filled with pink roses, creating a stunning contrast between the urban environment and the delicate flowers. The roses are arranged in a way that they appear to be floating in the air, adding a sense of elegance and grace to the scene. The combination of the cityscape and the roses creates a visually appealing and harmonious composition.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image features a decorative lantern hanging from a wooden railing. The lantern has a stained glass design with various colors, including blue, yellow, and green, arranged in a symmetrical pattern. The background shows a garden with lush greenery and blooming pink roses. The overall scene has a warm and inviting atmosphere.",
+      "model_answer": "The image features a cityscape with a large clock tower prominently visible in the background. The clock tower is surrounded by a lush green forest, creating a unique blend of urban and natural elements. The scene is further enhanced by the presence of a beautiful rose garden, with numerous roses of various sizes and colors scattered throughout the area. The roses are arranged in a way that they seem to be floating in the air, adding a sense of whimsy to the scene.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image features a decorative lantern hanging from a wooden railing. The lantern has a stained glass design with various colors, including blue, yellow, and green, arranged in a symmetrical pattern. The background shows a garden with lush greenery and blooming pink roses. The overall scene has a warm and inviting atmosphere.",
+      "model_answer": "The image features a beautiful scene of a city skyline with a backdrop of a large building. In front of the cityscape, there is a vase filled with pink flowers, creating a stunning contrast between the urban environment and the natural beauty of the flowers. The vase is placed on a table, and the flowers are arranged in a way that they appear to be floating in the air. The combination of the cityscape and the flowers creates a visually appealing and harmonious composition.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lantern in the image.",
+      "gt_answer": "There is a decorative lantern with a stained glass design",
+      "model_answer": "The lantern in the image is a stained glass lamp with a glass case, featuring a design of roses. It is placed on a table and surrounded by flowers.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the lantern in the image?",
+      "gt_answer": "The lantern is made of metal with a dark finish and features stained glass panels in various colors including blue, yellow, and green",
+      "model_answer": "The lantern in the image is black and made of glass.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the decorative lantern in the image?",
+      "gt_answer": "It is a wooden fence",
+      "model_answer": "A vase is to the right of the decorative lantern in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lantern in the image.",
+      "gt_answer": "There is a hanging lantern with a stained glass design featuring a star and floral patterns",
+      "model_answer": "The lantern in the image is a stained glass lantern, featuring a design of a rose. It is placed on a table, surrounded by flowers.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the lantern in the image?",
+      "gt_answer": "The lantern is made of metal with a dark finish and has stained glass panels in various colors including blue, yellow, and green",
+      "model_answer": "The lantern in the image is black and made of glass.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the hanging lantern in the image?",
+      "gt_answer": "It is a wooden fence",
+      "model_answer": "A vase of flowers is to the right of the hanging lantern in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lamp in the image.",
+      "gt_answer": "There is a decorative lamp with a stained glass design featuring various colors and patterns",
+      "model_answer": "The lamp in the image is a stained glass lamp, featuring a design of a woman and flowers. It is placed in front of a painting of a woman and flowers, creating a visually appealing and harmonious display.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the lamp in the image?",
+      "gt_answer": "The lamp has a stained glass design with colors including blue, yellow, and green, and it appears to be made of glass and metal",
+      "model_answer": "The lamp in the image is black and made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the lamp in the image?",
+      "gt_answer": "There is a wooden railing to the right of the lamp",
+      "model_answer": "A vase is to the right of the lamp in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lantern in the image.",
+      "gt_answer": "There is a decorative lantern with a stained glass design featuring various colors and patterns",
+      "model_answer": "The lantern in the image is a stained glass lantern, featuring a design of a rose. It is placed in front of a painting of a rose, creating a visually appealing display.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the lantern in the image?",
+      "gt_answer": "The lantern is made of metal with a dark finish and has a stained glass design featuring colors such as blue, yellow, and green",
+      "model_answer": "The lantern in the image is black and made of glass.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the wooden railing in the image?",
+      "gt_answer": "It is a decorative lantern",
+      "model_answer": "A stained glass lamp is to the right of the wooden railing in the image.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lamp in the image.",
+      "gt_answer": "There is a colorful stained glass lamp hanging from a wooden beam",
+      "model_answer": "The lamp in the image is a stained glass lamp, featuring a design of a rose. It is placed on a table and is surrounded by pink flowers.",
+      "score": 5.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the lamp in the image?",
+      "gt_answer": "The lamp is made of stained glass with a mix of colors including blue, yellow, and red",
+      "model_answer": "The lamp in the image is black and made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the lamp in the image?",
+      "gt_answer": "There is a wooden fence to the right of the lamp",
+      "model_answer": "A vase is to the right of the lamp in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the rose in the image.",
+      "gt_answer": "There is a pink rose with delicate petals",
+      "model_answer": "The rose in the image is pink and is located in front of a stained glass lamp.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the rose in the image?",
+      "gt_answer": "The rose is pink and made of a soft, velvety material",
+      "model_answer": "The rose in the image is pink and made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "26",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pink rose in the image?",
+      "gt_answer": "It is a stained glass lamp",
+      "model_answer": "A glass lamp is to the right of the pink rose in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window security bars in the image.",
+      "gt_answer": "This is a window with a white metal anti-theft fence, and below the window is a blue storage cabinet.",
+      "model_answer": "The window security bars in the image are made of metal and are placed on the outside of the window.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the color and material of the window security bars in the image.",
+      "gt_answer": "It is made of white metal material.",
+      "model_answer": "The window security bars in the image are white and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object on the left side of the blue pipe in the image?",
+      "gt_answer": "It is a window with a white anti-theft fence.",
+      "model_answer": "The object on the left side of the blue pipe in the image is a window.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the cabinet door in the image.",
+      "gt_answer": "This is a blue metal cabinet door with a flat surface and a small lock hole.",
+      "model_answer": "The cabinet door in the image is blue and made of glass.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What is the color and material of the cabinet door in the image?",
+      "gt_answer": "It is made of blue metal material.",
+      "model_answer": "The cabinet door in the image is blue and made of glass.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object under the white window in the image?",
+      "gt_answer": "It's a blue metal cabinet.",
+      "model_answer": "The object under the white window in the image is a fire hydrant.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the cabinet in the image.",
+      "gt_answer": "This is a blue metal cabinet with several doors and handles.",
+      "model_answer": "The cabinet in the image is blue and made of wood. It is located on the side of a building, possibly a brick building.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the colors and materials of the cabinet in the image?",
+      "gt_answer": "It is made of blue metal material.",
+      "model_answer": "The cabinet in the image is made of wood and has a blue and white color scheme.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object below the white window in the image?",
+      "gt_answer": "It's a blue metal cabinet.",
+      "model_answer": "The object below the white window in the image is a blue building.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window in the image.",
+      "gt_answer": "This is a window with a white frame and geometric patterned grille, installed on a blue brick wall.",
+      "model_answer": "The window in the image is a large, white, and arched window. It is located on the side of a building, possibly a church, and is situated next to a brick wall.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the window in the image.",
+      "gt_answer": "Its frame and grille are made of white metal material.",
+      "model_answer": "The window in the image has a blue surface material and is made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object on the left side of the blue pipe in the image?",
+      "gt_answer": "It is a window with a white grille.",
+      "model_answer": "The object on the left side of the blue pipe in the image is a window.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window frame in the image.",
+      "gt_answer": "There is a window with a white frame and a decorative grid pattern",
+      "model_answer": "The window frame in the image is white.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the window frame in the image?",
+      "gt_answer": "The window frame is white and appears to be made of metal",
+      "model_answer": "The window frame in the image is white and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the window in the image?",
+      "gt_answer": "It is a metal pipe",
+      "model_answer": "A blue pipe is to the right of the window in the image.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window frame in the image.",
+      "gt_answer": "There is a window with a white frame and a decorative grid pattern",
+      "model_answer": "The window frame in the image is made of metal, and it has a blue color.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the window frame in the image?",
+      "gt_answer": "The window frame is white and appears to be made of metal",
+      "model_answer": "The window frame in the image is white and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the window in the image?",
+      "gt_answer": "It is a white pipe",
+      "model_answer": "A blue pipe is to the right of the window in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window frame in the image.",
+      "gt_answer": "There is a window with a white frame and multiple panes",
+      "model_answer": "The window frame in the image is white.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the window frame in the image?",
+      "gt_answer": "The window frame is white and appears to be made of wood",
+      "model_answer": "The window frame in the image is white and made of wood.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the window in the image?",
+      "gt_answer": "It is a metal pipe",
+      "model_answer": "A pipe is to the right of the window in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window frame in the image.",
+      "gt_answer": "There is a window with a white frame and a decorative pattern on the glass",
+      "model_answer": "The window frame in the image is white.",
+      "score": 5.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the window frame in the image?",
+      "gt_answer": "The window frame is white and made of wood",
+      "model_answer": "The window frame in the image is white and made of wood.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the window in the image?",
+      "gt_answer": "It is a metal pipe",
+      "model_answer": "A pipe is to the right of the window in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window frame in the image.",
+      "gt_answer": "There is a window with a white frame and a decorative grid pattern",
+      "model_answer": "The window frame in the image is white.",
+      "score": 5.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the window frame in the image?",
+      "gt_answer": "The window frame is white and appears to be made of metal",
+      "model_answer": "The window frame in the image is white and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the window in the image?",
+      "gt_answer": "It is a blue pipe",
+      "model_answer": "A pipe is to the right of the window in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the pipe in the image.",
+      "gt_answer": "There is a section of a brick wall with a pipe attached to it",
+      "model_answer": "The pipe in the image is blue and made of metal. It is located on the side of a building, near a window.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the pipe in the image?",
+      "gt_answer": "The pipe is made of metal and appears to be silver in color",
+      "model_answer": "The pipe in the image is blue and made of metal.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "It is a section of the brick wall",
+      "model_answer": "A brick wall is to the right of the pipe in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the pipe in the image.",
+      "gt_answer": "There is a white pipe running vertically along the wall",
+      "model_answer": "The pipe in the image is a metal pipe, which is located on the side of a building.",
+      "score": 5.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the pipe in the image?",
+      "gt_answer": "The pipe is white and made of metal",
+      "model_answer": "The pipe in the image is white and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "It is a blue electrical box",
+      "model_answer": "A light fixture is to the right of the pipe in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a blue wall with a pipe running horizontally across it",
+      "model_answer": "The wall in the image is blue and made of bricks.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is blue and made of brick",
+      "model_answer": "The wall in the image is blue and made of brick.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "There is no object to the right of the pipe",
+      "model_answer": "A brick wall is to the right of the pipe in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a blue wall with a pipe running along it",
+      "model_answer": "The wall in the image is blue and made of bricks.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is blue and made of brick",
+      "model_answer": "The wall in the image is blue and made of brick.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "There is a door to the right of the pipe",
+      "model_answer": "A brick wall is to the right of the pipe in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a blue brick wall with a pipe running horizontally across it",
+      "model_answer": "The wall in the image is blue and made of bricks.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is blue and made of brick",
+      "model_answer": "The wall in the image is blue and made of brick.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "There is no object to the right of the pipe",
+      "model_answer": "A window is to the right of the pipe in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the object in the image.",
+      "gt_answer": "There is a blue brick wall with a pipe running horizontally across it",
+      "model_answer": "The image features a large window with a reflection of a building in it. The reflection appears to be a blue building with a brick wall.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the object in the image?",
+      "gt_answer": "The object is a blue brick wall with a metallic pipe",
+      "model_answer": "The object in the image is a blue brick building.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "There is no object to the right of the pipe",
+      "model_answer": "A window is to the right of the pipe in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a blue wall with a pipe running horizontally across it",
+      "model_answer": "The wall in the image is blue and made of bricks.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is blue and made of brick",
+      "model_answer": "The wall in the image is blue and made of brick.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "There is no object to the right of the pipe",
+      "model_answer": "A window is to the right of the pipe in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a blue wall with a pipe running horizontally across it",
+      "model_answer": "The wall in the image is blue and made of bricks.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is blue and made of brick",
+      "model_answer": "The wall in the image is blue and made of brick.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "There is no object to the right of the pipe",
+      "model_answer": "A window is to the right of the pipe in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a blue wall with a pipe running horizontally across it",
+      "model_answer": "The wall in the image is blue and made of bricks.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is blue and made of brick",
+      "model_answer": "The wall in the image is blue and made of brick.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "There is no object to the right of the pipe",
+      "model_answer": "A window is to the right of the pipe in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a blue brick wall with a pipe running along it",
+      "model_answer": "The wall in the image is blue and made of bricks.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is blue and made of brick",
+      "model_answer": "The wall in the image is blue and made of brick.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "There is a blue door to the right of the pipe",
+      "model_answer": "A brick wall is to the right of the pipe in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the object in the image.",
+      "gt_answer": "There is a blue brick wall with a pipe attached to it",
+      "model_answer": "The object in the image is a large window with a reflection of a building in it. The reflection appears to be a blue building with a pipe running down the side.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the object in the image?",
+      "gt_answer": "The object is blue and made of brick",
+      "model_answer": "The object in the image is a blue ice cream cone made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the pipe in the image?",
+      "gt_answer": "There is no object to the right of the pipe",
+      "model_answer": "A brick wall is to the right of the pipe in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the object in the image.",
+      "gt_answer": "There is a blue brick wall with a metal pipe attached to it",
+      "model_answer": "The image features a window on a building, with a pipe running along the side of the building. The window is located on the second floor of the building.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the object in the image?",
+      "gt_answer": "The object is a blue brick wall with a metal pipe",
+      "model_answer": "The object in the image is a blue metal pipe.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the metal pipe in the image?",
+      "gt_answer": "There is no object to the right of the metal pipe",
+      "model_answer": "A window is to the right of the metal pipe in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window frame in the image.",
+      "gt_answer": "There is a large window with a white frame and multiple panes",
+      "model_answer": "The window frame in the image is made of metal.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the window frame in the image?",
+      "gt_answer": "The window frame is white and appears to be made of metal",
+      "model_answer": "The window frame in the image is white and made of wood.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "18",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the window in the image?",
+      "gt_answer": "It is a blue pipe",
+      "model_answer": "A pipe is to the right of the window in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the flower in the image.",
+      "gt_answer": "The boxed area displays a portion of a large pale pink rose petal with a soft texture.",
+      "model_answer": "The flower in the image is a large, red rose.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of rose petals in the image.",
+      "gt_answer": "They are light pink in color and have a painted texture on their surface.",
+      "model_answer": "The rose petals in the image are red and green.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object located to the left of the eye in the rose in the image?",
+      "gt_answer": "It's rose petals.",
+      "model_answer": "The object located to the left of the eye in the rose is a flower.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the flower bud in the image.",
+      "gt_answer": "This is a dark green flower bud in a closed state with a pointed top.",
+      "model_answer": "The flower bud in the image is red and is located in the foreground.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the flower bud in the image.",
+      "gt_answer": "It is dark green and presents the texture of painting pigments on the surface.",
+      "model_answer": "The flower bud in the image is green and has a shiny surface.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is above the red flower in the image?",
+      "gt_answer": "It's a deep green flower bud.",
+      "model_answer": "Above the red flower in the image, there is a painting of a face.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image features a surreal and artistic depiction of a large, pale pink rose with an eye in the center. The rose is surrounded by various flowers and green foliage, including yellow lilies, small purple flowers, and red roses. The background is a muted green, giving the scene a dreamy and mystical atmosphere.",
+      "model_answer": "The image features a painting of a large, fat, and ugly elephant with a single eye. The elephant is surrounded by a lush, green forest filled with various plants and flowers. The eye of the elephant is prominently displayed, capturing the viewer's attention. The painting is a unique and intriguing representation of the elephant, showcasing its unique features and the vibrant, natural environment it inhabits.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image features a surreal and artistic depiction of a large, pale pink rose with an eye in the center. The rose is surrounded by various flowers and green foliage, including yellow lilies, small purple flowers, and red roses. The background is a muted green, giving the scene a dreamy and mystical atmosphere.",
+      "model_answer": "The image features a painting of a woman's face with a flower in her eye. The woman's face is surrounded by a variety of flowers, creating a vibrant and colorful scene. The flowers are scattered throughout the painting, with some located near the woman's face and others further away. The painting captures the beauty of the woman and the flowers, creating a captivating and artistic composition.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the leaf in the image.",
+      "gt_answer": "There is a green leaf with a smooth texture and a slightly glossy surface",
+      "model_answer": "The leaf in the image is green and has a purple flower on it.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the leaf in the image?",
+      "gt_answer": "The leaf is green and has a smooth, glossy material",
+      "model_answer": "The leaf in the image is green and made of paper.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the green leaf in the image?",
+      "gt_answer": "It is a small purple flower",
+      "model_answer": "A flower is to the right of the green leaf in the image.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the flower in the image.",
+      "gt_answer": "A large, pale yellow flower with a detailed eye-like center",
+      "model_answer": "The flower in the image is a large, red rose.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the flower in the image?",
+      "gt_answer": "The flower is pale yellow with a smooth, delicate petal texture",
+      "model_answer": "The flower in the image is red and made of glass.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the flower in the image?",
+      "gt_answer": "It is a small purple flower",
+      "model_answer": "A painting of a face is to the right of the flower in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the flower in the image.",
+      "gt_answer": "There is a small, delicate flower with a light purple hue and a yellow center",
+      "model_answer": "The flower in the image is a large, red rose.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the flower in the image?",
+      "gt_answer": "The flower is light purple with a yellow center, and it appears to be made of a soft, delicate material",
+      "model_answer": "The flower in the image is red and made of glass.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the light purple flower in the image?",
+      "gt_answer": "It is a green leaf",
+      "model_answer": "The object to the right of the light purple flower in the image is a painting of a woman's face.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the leaf in the image.",
+      "gt_answer": "A green leaf with a smooth texture and a slightly glossy surface",
+      "model_answer": "The leaf in the image is green and has a purple flower on it.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the leaf in the image?",
+      "gt_answer": "The leaf is green and has a smooth, glossy material",
+      "model_answer": "The leaf in the image is green and made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "35",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the green leaf in the image?",
+      "gt_answer": "It is a purple flower",
+      "model_answer": "A flower is to the right of the green leaf in the image.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "This is the upper part of a large industrial fan, including a black metal mesh cover, fan blades, and a motor center with a logo.",
+      "model_answer": "The fan in the image is a large, black, and silver ceiling fan. It is hanging from the ceiling and appears to be a part of a building's ventilation system.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the fan in the image.",
+      "gt_answer": "It is mainly made of black metal material, including mesh cover and fan blades.",
+      "model_answer": "The fan in the image has a black surface.",
+      "score": 5.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object on the left side of the red pipeline in the image?",
+      "gt_answer": "It's an industrial fan.",
+      "model_answer": "The object on the left side of the red pipeline in the image is a fan.",
+      "score": 9.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the pipeline in the image.",
+      "gt_answer": "A vertical red pipe is displayed within the boxed area, fixed to a white wall, with a portion of the black fan grille next to it.",
+      "model_answer": "The image features a large fan with a black motor and a silver fan blade, which is mounted on a wall. The fan is situated in front of a window, and it appears to be a part of a ventilation system.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the pipeline in the image.",
+      "gt_answer": "It is a red metal pipe.",
+      "model_answer": "The pipeline in the image is made of metal and is black in color.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object on the right side of the black fan grille in the image?",
+      "gt_answer": "It's a red pipe.",
+      "model_answer": "The object on the right side of the black fan grille in the image is a fire extinguisher.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the industrial fans in the image.",
+      "gt_answer": "This is the head of a large industrial fan, which includes a black metal mesh cover, three black fan blades, and a central hub with a silver logo.",
+      "model_answer": "The image features two large industrial fans, which are mounted on a wall and appear to be made of metal. They are situated in front of a window, and their blades are visible.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the colors and materials of industrial fans in the image?",
+      "gt_answer": "It is mainly made of black metal material, including mesh cover and fan blades, and the central hub is also black, but with a silver circular logo.",
+      "model_answer": "The industrial fans in the image are black and silver in color, and they are made of metal.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object on the left side of the red pipeline in the image?",
+      "gt_answer": "It's an industrial fan.",
+      "model_answer": "The object on the left side of the red pipeline in the image is a fan.",
+      "score": 9.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "There is a black fan with a protective grill and three blades",
+      "model_answer": "The fan in the image is a small, black, and silver electric fan. It is mounted on a wall and appears to be a portable or wall-mounted fan.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is black and made of metal",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fan in the image?",
+      "gt_answer": "There is a red pipe",
+      "model_answer": "A red fire extinguisher is located to the right of the fan in the image.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "The main object is a black fan with a protective grill and three blades",
+      "model_answer": "The fan in the image is a large, industrial-sized fan with a metal frame. It is located in a room, possibly a garage, and is positioned near a window.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is black and made of metal",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fan in the image?",
+      "gt_answer": "It is a window",
+      "model_answer": "A car is to the right of the fan in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "The main object is a black fan with a protective grill and three blades",
+      "model_answer": "The fan in the image is a large, black, and silver electric fan. It is placed on a stand and appears to be turned on, as it is blowing air.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is black and made of metal",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fan in the image?",
+      "gt_answer": "It is a red pipe",
+      "model_answer": "There is a staircase to the right of the fan in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "The main object is a black fan with a protective grill and three blades",
+      "model_answer": "The fan in the image is a small, black, and silver electric fan. It is mounted on a wall and appears to be turned on, as it is blowing air.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is black and made of metal",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fan in the image?",
+      "gt_answer": "It is a red pipe",
+      "model_answer": "A metal railing is to the right of the fan in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "There is a black fan with a protective grill and three blades",
+      "model_answer": "The fan in the image is a small, portable electric fan with a black and silver color scheme. It is mounted on a stand and has a reflective surface, which makes it appear to be shiny.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is black and made of metal",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fan in the image?",
+      "gt_answer": "There is a window to the right of the fan",
+      "model_answer": "A metal railing is to the right of the fan in the image.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a black electric fan mounted on a wall. The fan has a protective grill and three blades. There is a red pipe running vertically along the wall to the right of the fan. The wall is painted white, and there is a small rectangular sign with text on it to the right of the fan.",
+      "model_answer": "The image features a large black fan with a silver center, mounted on a wall. The fan is turned off, and it appears to be a ceiling fan. The fan is positioned in the center of the image, with its blades facing upwards. The fan's design and size make it a prominent focal point in the scene.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "There is a large fan with a protective grill and three blades",
+      "model_answer": "The fan in the image is a large, black, and silver ceiling fan. It is hanging from the ceiling and appears to be a part of a building's ventilation system.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is primarily black with a metallic grill",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 9.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is above the fan in the image?",
+      "gt_answer": "There is a ceiling light above the fan",
+      "model_answer": "There is a clock above the fan in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "There is a large fan with a protective grill and three blades",
+      "model_answer": "The fan in the image is a large, black, and silver fan with a metal cage surrounding it. It is mounted on the wall and appears to be a ceiling fan.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is primarily black with a metallic grill",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 9.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is above the fan in the image?",
+      "gt_answer": "There is a light fixture above the fan",
+      "model_answer": "There is a ceiling fan above the fan in the image.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "There is a large fan with a protective grill and three blades, positioned centrally in the image",
+      "model_answer": "The fan in the image is a large, black, and silver fan with a metal cage. It is mounted on the wall and appears to be a ceiling fan.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is primarily black with a metallic grill and plastic blades",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is above the fan in the image?",
+      "gt_answer": "There is a ceiling light fixture above the fan",
+      "model_answer": "A light fixture is above the fan in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window in the image.",
+      "gt_answer": "There is a large window with a view of the outside",
+      "model_answer": "The window in the image is a large, rectangular glass window. It is located in a room, and the reflection of a fan can be seen on the window.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the window in the image?",
+      "gt_answer": "The window is made of clear glass and has a white frame",
+      "model_answer": "The window in the image is white and made of glass.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the window in the image?",
+      "gt_answer": "There is a red pipe to the right of the window",
+      "model_answer": "A fan is to the right of the window in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the window frame in the image.",
+      "gt_answer": "There is a window with a metal frame and a partially visible tree outside",
+      "model_answer": "The window frame in the image is made of glass, and it is reflecting the image of the fan.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the window frame in the image?",
+      "gt_answer": "The window frame is made of metal and appears to be painted white",
+      "model_answer": "The window frame in the image is white and made of glass.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the window in the image?",
+      "gt_answer": "To the right of the window, there is a partially visible tree",
+      "model_answer": "A fan is to the right of the window in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a white wall with a red pipe running vertically",
+      "model_answer": "The wall in the image is white.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is white and appears to be made of plaster",
+      "model_answer": "The wall in the image is white and made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the red pipe in the image?",
+      "gt_answer": "There is a window to the right of the red pipe",
+      "model_answer": "A fan is to the right of the red pipe in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a white wall with a red pipe running vertically",
+      "model_answer": "The wall in the image is white and appears to be a part of a building.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is white and appears to be made of plaster",
+      "model_answer": "The wall in the image is white and made of plaster.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the red pipe in the image?",
+      "gt_answer": "There is a window to the right of the red pipe",
+      "model_answer": "A fan is to the right of the red pipe in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the wall in the image.",
+      "gt_answer": "There is a white wall with a red pipe running vertically along it",
+      "model_answer": "The wall in the image is white.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the wall in the image?",
+      "gt_answer": "The wall is white and appears to be made of plaster or drywall",
+      "model_answer": "The wall in the image is white and made of cement.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the red pipe in the image?",
+      "gt_answer": "There is a window to the right of the red pipe",
+      "model_answer": "A fan is to the right of the red pipe in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "There is a black fan with a protective grill and three blades",
+      "model_answer": "The fan in the image is a black, metal fan with a black motor. It is mounted on the wall and appears to be a ceiling fan.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is black and made of metal",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fan in the image?",
+      "gt_answer": "It is a red pipe",
+      "model_answer": "A pipe is located to the right of the fan in the image.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fan in the image.",
+      "gt_answer": "There is a fan with a black frame and three blades, positioned against a white wall",
+      "model_answer": "The fan in the image is a small, black, and silver fan with a black motor. It is mounted on a wall and appears to be a ceiling fan.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fan in the image?",
+      "gt_answer": "The fan is black and appears to be made of metal",
+      "model_answer": "The fan in the image is black and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "12",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fan in the image?",
+      "gt_answer": "There is a red pipe to the right of the fan",
+      "model_answer": "A pipe is located to the right of the fan in the image.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the word 'GO' in the image.",
+      "gt_answer": "The boxed area displays the huge \"GO\" lettering written in orange paint on the ground, as well as the surrounding gray concrete pavement.",
+      "model_answer": "The word 'GO' in the image is written in large, bold letters, and it is displayed on a sidewalk or pavement.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the color and material of the word 'GO' in the image.",
+      "gt_answer": "It is painted with orange paint on the surface of concrete.",
+      "model_answer": "The word 'GO' in the image is orange and made of metal.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is on the right side of the word 'READY' in the image?",
+      "gt_answer": "It is the orange word 'GO'.",
+      "model_answer": "There is a tree on the right side of the word 'READY' in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the these letters on the ground in the image.",
+      "gt_answer": "The boxed area displays the huge \"GO\" lettering written in orange paint on the ground, as well as some gray concrete brick floors.",
+      "model_answer": "The letters \"GO\" are written on the ground in the image.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the color and material of these letters on the ground in the image.",
+      "gt_answer": "These letters are orange and appear to be painted directly onto the surface of concrete.",
+      "model_answer": "The letters on the ground are white and made of metal.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object on the right side of the white word 'READY' in the image?",
+      "gt_answer": "It is the orange word 'GO'.",
+      "model_answer": "The object on the right side of the white word 'READY' in the image is a tree.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the word 'GO' in the image.",
+      "gt_answer": "This is an orange word \"GO\" written on a gray concrete floor.",
+      "model_answer": "The word 'GO' in the image is written in orange and white, and it is displayed on a sidewalk.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the color and material of the word 'GO' in the image.",
+      "gt_answer": "It is orange paint applied to the ground.",
+      "model_answer": "The word 'GO' in the image is orange and made of metal.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is on the right side of the white word 'READY' in the image?",
+      "gt_answer": "It's the orange word 'GO'.",
+      "model_answer": "There is a large orange letter 'G' on the right side of the white word 'READY' in the image.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the building in the image.",
+      "gt_answer": "There is a building with multiple windows",
+      "model_answer": "The building in the image is a tall, white building with many windows. It appears to be a large commercial or office building.",
+      "score": 8.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the building in the image?",
+      "gt_answer": "The building is made of concrete and has a gray color",
+      "model_answer": "The building in the image is white and made of glass.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the building in the image?",
+      "gt_answer": "There is a tree to the right of the building",
+      "model_answer": "A tree is to the right of the building in the image.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the building in the image.",
+      "gt_answer": "There is a large building with many windows and balconies",
+      "model_answer": "The building in the image is a tall, white, and modern structure. It is located in a city and has a reflective surface, which is visible in the reflection of the building in the glass.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the building in the image?",
+      "gt_answer": "The building is primarily white with a concrete material",
+      "model_answer": "The building in the image is white and made of concrete.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the left of the building in the image?",
+      "gt_answer": "There is a tree to the left of the building",
+      "model_answer": "A tree is to the left of the building in the image.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a section of a concrete floor with two large words painted on it. The word 'READY' is painted in white on the left side, and the word 'GO' is painted in orange on the right side. The words are positioned vertically, with 'READY' above 'GO'. The background includes a portion of a wall and a bench or table leg at the top of the image.",
+      "model_answer": "The image features a large, close-up view of the word \"GO\" written in orange on a black background. The word is surrounded by a few trees, giving the impression of a cityscape. In the background, there are several cars parked or driving along the street, adding to the urban atmosphere. The scene appears to be captured through a window, giving a sense of depth and perspective to the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a section of a concrete floor with two large words painted on it. The word 'READY' is painted in white on the left side, and the word 'GO' is painted in orange on the right side. The words are positioned vertically, with 'READY' above 'GO'. The background includes a portion of a wall and a bench or table leg at the top of the image.",
+      "model_answer": "The image features a large \"GO\" sign on the ground, with the word \"GO\" written in orange and the word \"READY\" written in white. The sign is positioned in front of a building, possibly a high-rise apartment building. The scene appears to be captured through a glass surface, giving the impression of a reflection.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the circle in the image.",
+      "gt_answer": "There is a large orange circle on the ground",
+      "model_answer": "The circle in the image is a reflection of a large orange number eight.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the circle in the image?",
+      "gt_answer": "The circle is orange and appears to be made of a smooth, solid material",
+      "model_answer": "The circle in the image is orange and made of metal.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the left of the circle in the image?",
+      "gt_answer": "To the left of the circle is the word 'READY'",
+      "model_answer": "The object to the left of the circle in the image is a window.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the building in the image.",
+      "gt_answer": "There is a building with multiple windows and a blue awning",
+      "model_answer": "The building in the image is a tall, white building with many windows. It appears to be a large structure, possibly a commercial or office building.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the building in the image?",
+      "gt_answer": "The building is made of concrete and has a gray color",
+      "model_answer": "The building in the image is white and made of glass.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the building in the image?",
+      "gt_answer": "There is a tree to the right of the building",
+      "model_answer": "A tree is to the right of the building in the image.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the books in the image.",
+      "gt_answer": "A row of books is displayed on a shelf",
+      "model_answer": "The image features a reflection of a bookshelf in a window. The books are visible in the reflection, but the actual books are not described in detail.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the books in the image?",
+      "gt_answer": "The books are primarily white with various colored covers, made of paper",
+      "model_answer": "The books in the image are white and made of paper.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the books in the image?",
+      "gt_answer": "It is a window",
+      "model_answer": "A bench is to the right of the books in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the letter in the image.",
+      "gt_answer": "There is a large, orange letter 'G' on the ground",
+      "model_answer": "The letter in the image is the letter \"G.\"",
+      "score": 6.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the letter in the image?",
+      "gt_answer": "The letter is orange and appears to be made of a flat, solid material",
+      "model_answer": "The letter in the image is orange and made of metal.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the left of the letter 'G' in the image?",
+      "gt_answer": "It is the word 'READY'",
+      "model_answer": "The letter 'R' is to the left of the letter 'G' in the image.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the object in the image.",
+      "gt_answer": "There is a large, rectangular object with a reflective surface and a grid-like pattern on it",
+      "model_answer": "The object in the image is a large, orange \"GO\" sign on the ground.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the object in the image?",
+      "gt_answer": "The object is primarily gray with a metallic appearance and has white and orange markings",
+      "model_answer": "The object in the image is a white and orange sign made of metal.",
+      "score": 5.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the rectangular object in the image?",
+      "gt_answer": "It is a section of the ground with a distinct texture",
+      "model_answer": "A car is to the right of the rectangular object in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the letter in the image.",
+      "gt_answer": "There is a large, orange letter 'G' on the ground",
+      "model_answer": "The letter in the image is the letter \"G.\"",
+      "score": 6.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the letter in the image?",
+      "gt_answer": "The letter is orange and appears to be made of a flat, solid material",
+      "model_answer": "The letter in the image is orange and made of metal.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the left of the letter 'G' in the image?",
+      "gt_answer": "To the left of the letter 'G' is the word 'READY'",
+      "model_answer": "The letter 'R' is to the left of the letter 'G' in the image.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "05",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a section of a concrete floor with two large words painted on it. The word 'READY' is painted in white on the left side, and the word 'GO' is painted in orange on the right side. The words are positioned vertically, with 'READY' above 'GO'. The background includes a portion of a wall and a bench or table leg at the top of the image.",
+      "model_answer": "The image features a large \"GO\" sign on the ground, possibly in a public area or a city street. The sign is prominently displayed, with the word \"GO\" written in orange and white. The sign is positioned in front of a building, which can be seen in the background. The scene appears to be captured from a slightly elevated perspective, giving a clear view of the \"GO\" sign and its surroundings.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the top surface of the fire extinguisher box in the image.",
+      "gt_answer": "This is the top surface of the red fire extinguisher box, with white instructions and text printed on it.",
+      "model_answer": "The top surface of the fire extinguisher box in the image is red.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What is the color and material of the top surface of the fire extinguisher box in the image?",
+      "gt_answer": "It is made of red metal material with white printed text on the surface.",
+      "model_answer": "The top surface of the fire extinguisher box in the image is red and made of wood.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object above the text area on the front of the fire extinguisher box in the image?",
+      "gt_answer": "It is the top of the fire extinguisher box with explanatory text.",
+      "model_answer": "The object above the text area on the front of the fire extinguisher box in the image is a telephone.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the top of the fire extinguisher box in the image.",
+      "gt_answer": "This is a red fire extinguisher box with white text and instructions printed on top.",
+      "model_answer": "The top of the fire extinguisher box in the image is red.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What is the surface material and color of the top of the fire extinguisher box in the image?",
+      "gt_answer": "It is made of red metal material.",
+      "model_answer": "The surface material of the fire extinguisher box is wood, and it is painted red.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the part above the main body of the fire extinguisher box in the image?",
+      "gt_answer": "It is the top of the fire extinguisher box with text.",
+      "model_answer": "The part above the main body of the fire extinguisher box in the image is a lid.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "The boxed area displays the lower half of the red fire extinguisher box, with white Chinese text \"Tianyu Lake\" and \"Fire Alarm\" printed on it ☎  119 \".",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the sidewalk outside a building.",
+      "score": 5.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the fire extinguisher box in the image.",
+      "gt_answer": "It is red and the surface is made of painted metal material.",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 9.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object below the upper part with the words' fire extinguisher box ' in the image?",
+      "gt_answer": "It is the lower part of the box with the words \"Tianyu Lake\" and \"119\".",
+      "model_answer": "The object below the upper part with the words ' fire extinguisher box ' in the image is a red fire extinguisher box.",
+      "score": 5.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the lower half of the box in the selected area in the image.",
+      "gt_answer": "This is the lower part of a red metal fire extinguisher box, with white words \"Tian H Lake\" and \"Fire Alarm 119\" printed on the door.",
+      "model_answer": "The lower half of the box in the selected area of the image is red.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What is the color and material of the lower half of the box in the selected area in the image?",
+      "gt_answer": "It is made of red metal material.",
+      "model_answer": "The lower half of the box in the selected area of the image is red and made of wood.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object below the upper half of the fire extinguisher box in the image?",
+      "gt_answer": "It is the lower part of the red fire extinguisher box with the words \"TianH Lake\" and \"Fire Alarm 119\".",
+      "model_answer": "The object below the upper half of the fire extinguisher box in the image is a person.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the edge of the top cover of the fire extinguisher box in the image.",
+      "gt_answer": "This is the edge of the top cover of the red fire extinguisher box.",
+      "model_answer": "The edge of the top cover of the fire extinguisher box in the image is red.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What is the color and material of the edge of the top cover of the fire extinguisher box in the image?",
+      "gt_answer": "It is made of red metal material.",
+      "model_answer": "The edge of the top cover of the fire extinguisher box in the image is red and made of wood.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the top object of the fire extinguisher box body in the image?",
+      "gt_answer": "It is the edge of the top cover of the fire extinguisher box.",
+      "model_answer": "The top object of the fire extinguisher box body in the image is a red lid.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the Chinese character 'lake' in the image.",
+      "gt_answer": "This is a white Chinese character \"lake\" printed on the surface of a red fire extinguisher box.",
+      "model_answer": "The Chinese character for 'lake' in the image is '湖'.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the color and material of the Chinese character 'lake' in the image.",
+      "gt_answer": "It is made of white paint material.",
+      "model_answer": "The Chinese character 'lake' in the image is red and made of wood.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is located to the right of the Chinese character 'Tian' in the image?",
+      "gt_answer": "It is the Chinese character for 'lake'.",
+      "model_answer": "A telephone is located to the right of the Chinese character 'Tian' in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the walls within the selected area in the image.",
+      "gt_answer": "This is the upper area of the light yellow corrugated metal wall, where vertical ridges can be seen.",
+      "model_answer": "The walls within the selected area in the image are white and have vertical stripes.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the color and material of the walls within the selected area in the image.",
+      "gt_answer": "It is a light yellow metal material with a wavy texture on the surface.",
+      "model_answer": "The walls within the selected area in the image are white and made of glass.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object on the upper right corner of the fire extinguisher box in the image?",
+      "gt_answer": "It is a light yellow corrugated metal wall.",
+      "model_answer": "The object on the upper right corner of the fire extinguisher box in the image is a window.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the corrugated wall in the image.",
+      "gt_answer": "This is the top edge of the white corrugated metal wall.",
+      "model_answer": "The corrugated wall in the image is a white wall with vertical stripes.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "Please describe the surface material and color of the corrugated wall in the image.",
+      "gt_answer": "It is made of white metal material.",
+      "model_answer": "The corrugated wall in the image is white and has a striped pattern.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What is the object located in the upper right corner of the red fire extinguisher box in the image?",
+      "gt_answer": "It's a white corrugated metal wall.",
+      "model_answer": "The object located in the upper right corner of the red fire extinguisher box in the image is a window.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located outside, possibly in a public area, and is designed to hold a fire extinguisher.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of wood.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is a wall to the right of the fire extinguisher box",
+      "model_answer": "A shadow of a person is to the right of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "A red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the sidewalk outside a building.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of wood.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is no object to the right of the fire extinguisher box",
+      "model_answer": "A shadow of a person is to the right of the fire extinguisher box in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "A red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the side of a building, possibly in a public area.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of wood.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is no object to the right of the fire extinguisher box",
+      "model_answer": "A potted plant is to the right of the fire extinguisher box in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "A red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the floor, possibly in a hallway, and is made of metal.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is no object to the right of the fire extinguisher box",
+      "model_answer": "A window is to the right of the fire extinguisher box in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "A red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located outside, possibly in front of a building.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is no object to the right of the fire extinguisher box",
+      "model_answer": "A window is to the right of the fire extinguisher box in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the sidewalk outside a building.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is a wall to the right of the fire extinguisher box",
+      "model_answer": "A telephone is to the right of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the floor, possibly in a hallway, and is made of metal.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is a wall to the right of the fire extinguisher box",
+      "model_answer": "A window is to the right of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a red fire extinguisher box placed against a white wall with vertical stripes. The box has white text on it, including the words 'FIRE EXTINGUISHER BOX' and '火警 119'. There are also some Chinese characters on the box. The box is positioned on a dark-colored surface, possibly concrete or asphalt.",
+      "model_answer": "The image features a red fire extinguisher box placed on the floor, likely in a public area. The box is positioned near a window, and there is a potted plant located close to it. The fire extinguisher box is written in a foreign language, which suggests that it might be in a non-English speaking country. The overall scene appears to be a simple and functional display of a fire safety device.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a red fire extinguisher box placed against a white wall with vertical stripes. The box has white text on it, including the words 'FIRE EXTINGUISHER BOX' and '火警 119'. There are also some Chinese characters on the box. The box is positioned on a dark-colored surface, possibly concrete or asphalt.",
+      "model_answer": "The image features a red fire extinguisher box with Chinese writing on it, placed on a carpeted floor. The box is positioned in front of a window, and a potted plant can be seen nearby. The plant is located to the left of the fire extinguisher box, and it appears to be a small, decorative element in the scene.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a red fire extinguisher box placed against a white wall with vertical stripes. The box has white text on it, including the words 'FIRE EXTINGUISHER BOX' and '火警 119'. There are also some Chinese characters on the box. The box is positioned on a dark-colored surface, possibly concrete or asphalt.",
+      "model_answer": "The image features a red fire extinguisher box with Chinese writing on it, placed against a wall. The box is positioned in the center of the scene, with a potted plant located to the right of it. The plant is quite large, covering a significant portion of the wall and extending from the top to the bottom of the image. The combination of the fire extinguisher box and the potted plant creates an interesting contrast between the functional and decorative elements in the scene.",
+      "score": 5.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a red fire extinguisher box placed against a white wall with vertical stripes. The box has white text on it, including the words 'FIRE EXTINGUISHER BOX' and '火警 119'. There are also some Chinese characters on the box. The box is positioned on a dark-colored surface, possibly concrete or asphalt.",
+      "model_answer": "The image features a red box with Chinese writing on it, placed on a carpeted floor. The box is positioned near a wall, and there are two potted plants in the scene. One potted plant is located to the left of the box, while the other is situated to the right. The plants add a touch of greenery to the room, creating a pleasant atmosphere.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a red fire extinguisher box placed against a white wall with vertical stripes. The box has white text on it, including the words 'FIRE EXTINGUISHER BOX' and '火警 119'. There are also some Chinese characters on the box. The box is positioned on a dark-colored surface, possibly concrete or asphalt.",
+      "model_answer": "The image features a red fire extinguisher box with Chinese writing on it, placed on a carpeted floor. The box is positioned in front of a window, and a potted plant can be seen nearby. The plant is located to the right of the fire extinguisher box, adding a touch of greenery to the scene.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a red fire extinguisher box placed against a white wall with vertical stripes. The box has white text on it, including the words 'FIRE EXTINGUISHER BOX' and '火警 119'. There are also some Chinese characters on the box. The box is positioned on a dark-colored surface, possibly concrete or asphalt.",
+      "model_answer": "The image features a red fire extinguisher box placed against a wall. The box is positioned in the center of the scene, with the wall behind it. The box is likely designed to hold fire extinguishers and is placed in a prominent location for easy access in case of emergencies.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a red fire extinguisher box placed against a white wall with vertical stripes. The box has white text on it, including the words 'FIRE EXTINGUISHER BOX' and '火警 119'. There are also some Chinese characters on the box. The box is positioned on a dark-colored surface, possibly concrete or asphalt.",
+      "model_answer": "The image features a red box with Chinese writing on it, placed on a carpeted floor. The box is positioned in front of a wall, and a potted plant is located nearby, adding a touch of greenery to the scene. The box appears to be a free-standing, self-contained unit, possibly serving as a storage or utility container.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on a wall, possibly in a building.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is a wall to the right of the fire extinguisher box",
+      "model_answer": "A window is to the right of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on a wall, possibly in a building.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of wood.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is a window to the right of the fire extinguisher box",
+      "model_answer": "A person is standing to the right of the fire extinguisher box in the image.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on a wall, possibly in a building.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is a building to the right of the fire extinguisher box",
+      "model_answer": "A person is standing to the right of the fire extinguisher box in the image.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the side of a building, possibly in a city.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is a wall to the right of the fire extinguisher box",
+      "model_answer": "A person is standing to the right of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the floor in the image.",
+      "gt_answer": "There is a concrete floor with visible texture and cracks",
+      "model_answer": "The floor in the image is made of tile.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the floor in the image?",
+      "gt_answer": "The floor is gray and made of concrete",
+      "model_answer": "The floor in the image is black and made of tile.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is below the fire extinguisher box in the image?",
+      "gt_answer": "It is the concrete floor",
+      "model_answer": "A fire extinguisher is located below the fire extinguisher box in the image.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the floor in the image.",
+      "gt_answer": "There is a concrete floor with a smooth texture and a light gray color",
+      "model_answer": "The floor in the image is made of tile.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the floor in the image?",
+      "gt_answer": "The floor is light gray and made of concrete",
+      "model_answer": "The floor in the image is white and made of tile.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is below the fire extinguisher box in the image?",
+      "gt_answer": "It is a concrete floor",
+      "model_answer": "A fire extinguisher is located below the fire extinguisher box in the image.",
+      "score": 3.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on a wall, possibly in a building.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the left of the fire extinguisher box in the image?",
+      "gt_answer": "There is a wall to the left of the fire extinguisher box",
+      "model_answer": "A window is to the left of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "A red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located in a room with a striped wallpaper pattern.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the left of the fire extinguisher box in the image?",
+      "gt_answer": "It is a vase",
+      "model_answer": "A radio is to the left of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "The main object is a red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has a white sign on it. It is located in front of a building, possibly a high-rise apartment building.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "It is a wall",
+      "model_answer": "A red mailbox is to the right of the fire extinguisher box in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "The main object is a red fire extinguisher box with white text and symbols on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the sidewalk outside a building.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "It is a white wall",
+      "model_answer": "A fire hydrant is located to the right of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "The main object is a red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the sidewalk outside a building.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "It is a white wall",
+      "model_answer": "A red fire extinguisher box is to the right of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "The main object is a red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the sidewalk outside a building.",
+      "score": 7.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of wood.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "It is a white wall",
+      "model_answer": "A car is to the right of the fire extinguisher box in the image.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located outside of a building, possibly in a courtyard.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is a wall to the right of the fire extinguisher box",
+      "model_answer": "A fire hydrant is located to the right of the fire extinguisher box in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "There is a red fire extinguisher box with white text on it",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located outside, possibly in a public area or near a building.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of metal.",
+      "score": 10.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is a wall to the right of the fire extinguisher box",
+      "model_answer": "A fire hydrant is located to the right of the fire extinguisher box in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a red fire extinguisher box placed against a white wall with vertical stripes. The box has white text on it, including the words 'FIRE EXTINGUISHER BOX' and '火警 119'. There are also some Chinese characters on the box. The box is positioned on a dark-colored surface, possibly concrete or asphalt.",
+      "model_answer": "The image features a red fire extinguisher box with Chinese writing on it, placed in a room. The box is positioned near a window, and its reflection can be seen in the glass. The room appears to be a living space, with a chair located in the background. The fire extinguisher box is the main focus of the scene, standing out against the room's background.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "A red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located in a room with a window, and it appears to be a small, red container.",
+      "score": 6.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of wood.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is no object to the right of the fire extinguisher box",
+      "model_answer": "A telephone is to the right of the fire extinguisher box in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the fire extinguisher box in the image.",
+      "gt_answer": "A red fire extinguisher box with white text and symbols",
+      "model_answer": "The fire extinguisher box in the image is red and has Chinese writing on it. It is located on the floor, possibly in a hallway, and is made of wood.",
+      "score": 4.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "detail",
+      "question": "What are the color and material of the fire extinguisher box in the image?",
+      "gt_answer": "The fire extinguisher box is red and made of metal",
+      "model_answer": "The fire extinguisher box in the image is red and made of wood.",
+      "score": 2.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "spatial",
+      "question": "What object is to the right of the fire extinguisher box in the image?",
+      "gt_answer": "There is no object to the right of the fire extinguisher box",
+      "model_answer": "A red telephone is to the right of the fire extinguisher box in the image.",
+      "score": 1.0
+    },
+    {
+      "scene_id": "06",
+      "type": "typeB_visual",
+      "subtype": "content",
+      "question": "Describe the visual content of this image in the image.",
+      "gt_answer": "The image shows a red fire extinguisher box placed against a white wall with vertical stripes. The box has white text on it, including the words 'FIRE EXTINGUISHER BOX' and '火警 119'. There are also some Chinese characters on the box. The box is positioned on a dark-colored surface, possibly concrete or asphalt.",
+      "model_answer": "The image features a red fire extinguisher box with Chinese writing on it, placed against a wall. The box is positioned in the center of the scene, with the wall behind it. The box appears to be a fire extinguisher container, and its red color makes it stand out against the wall.",
+      "score": 7.0
+    }
+  ]
+}

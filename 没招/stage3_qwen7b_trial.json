@@ -1,0 +1,242 @@
+[
+  {
+    "image": "GT/00/0000_rgb.png",
+    "input_path": "rgb/00/0002_rgb.png",
+    "gt_path": "GT/00/0000_rgb.png",
+    "scene_id": "00",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the visual content of this image."
+      },
+      {
+        "from": "gpt",
+        "value": "The image shows a collection of books with Chinese titles, including '海子的诗', '平凡的世界', '你像当鸟飞往你的山', '以她之名', '随性而至', and '人间草木'."
+      }
+    ]
+  },
+  {
+    "image": "GT/00/0000_rgb.png",
+    "input_path": "rgb/00/0003_rgb.png",
+    "gt_path": "GT/00/0000_rgb.png",
+    "scene_id": "00",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.0915032679738562,
+      0.0576171875,
+      0.1568627450980392,
+      0.1435546875
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the black square in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "A black square"
+      }
+    ]
+  },
+  {
+    "image": "GT/01/0000_rgb.png",
+    "input_path": "rgb/01/0000_rgb.png",
+    "gt_path": "GT/01/0000_rgb.png",
+    "scene_id": "01",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.9379084967320261,
+      0.0,
+      1.0,
+      0.0439453125
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the object is a white square in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "The object in this region is a white square with black text"
+      }
+    ]
+  },
+  {
+    "image": "GT/01/0000_rgb.png",
+    "input_path": "rgb/01/0001_rgb.png",
+    "gt_path": "GT/01/0000_rgb.png",
+    "scene_id": "01",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.826797385620915,
+      0.0,
+      0.9117647058823529,
+      0.0625
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the object is a piece in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "The object in this region is a piece of paper with Chinese characters on it"
+      }
+    ]
+  },
+  {
+    "image": "GT/01/0000_rgb.png",
+    "input_path": "rgb/01/0002_rgb.png",
+    "gt_path": "GT/01/0000_rgb.png",
+    "scene_id": "01",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.3464052287581699,
+      0.6328125,
+      0.5678104575163399,
+      0.9931640625
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the region contains Chinese characters on a wall in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "The region contains Chinese characters on a wall"
+      }
+    ]
+  },
+  {
+    "image": "GT/01/0000_rgb.png",
+    "input_path": "rgb/01/0002_rgb.png",
+    "gt_path": "GT/01/0000_rgb.png",
+    "scene_id": "01",
+    "type": "typeB_visual",
+    "subtype": "spatial",
+    "bbox_norm": [
+      0.3464052287581699,
+      0.6328125,
+      0.5678104575163399,
+      0.9931640625
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is above the region in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The region contains Chinese characters on a wall"
+      }
+    ]
+  },
+  {
+    "image": "GT/01/0000_rgb.png",
+    "input_path": "rgb/01/0003_rgb.png",
+    "gt_path": "GT/01/0000_rgb.png",
+    "scene_id": "01",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.6895424836601307,
+      0.171875,
+      0.994281045751634,
+      0.5234375
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the region shows a wall with Chinese characters in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "The region shows a wall with Chinese characters"
+      }
+    ]
+  },
+  {
+    "image": "GT/01/0000_rgb.png",
+    "input_path": "rgb/01/0004_rgb.png",
+    "gt_path": "GT/01/0000_rgb.png",
+    "scene_id": "01",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.011437908496732025,
+      0.06640625,
+      0.32516339869281047,
+      0.228515625
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the region shows a pattern of Chinese characters with in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "The region shows a pattern of Chinese characters with a glare/reflection effect"
+      }
+    ]
+  },
+  {
+    "image": "GT/02/0000_rgb.png",
+    "input_path": "rgb/02/0000_rgb.png",
+    "gt_path": "GT/02/0000_rgb.png",
+    "scene_id": "02",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.11519607843137254,
+      0.2294921875,
+      0.8913398692810458,
+      0.6572265625
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the black fan with a circular design and three in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "A black fan with a circular design and three blades, placed against a wall with a decorative banner"
+      }
+    ]
+  },
+  {
+    "image": "GT/02/0000_rgb.png",
+    "input_path": "rgb/02/0001_rgb.png",
+    "gt_path": "GT/02/0000_rgb.png",
+    "scene_id": "02",
+    "type": "typeB_visual",
+    "subtype": "content",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the visual content of this image."
+      },
+      {
+        "from": "gpt",
+        "value": "The image shows a black electric fan with a circular base and three blades, placed against a wall with a decorative banner featuring Chinese characters and a cartoon character."
+      }
+    ]
+  }
+]

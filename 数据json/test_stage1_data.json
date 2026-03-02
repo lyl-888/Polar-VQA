@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "37_0000_rgb.png",
+    "image": "rgb/37/0000_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0000_000.png",
+      "I_45": "polar/37/0000_045.png",
+      "I_90": "polar/37/0000_090.png",
+      "I_135": "polar/37/0000_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0001_rgb.png",
+    "image": "rgb/37/0001_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0001_000.png",
+      "I_45": "polar/37/0001_045.png",
+      "I_90": "polar/37/0001_090.png",
+      "I_135": "polar/37/0001_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0002_rgb.png",
+    "image": "rgb/37/0002_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0002_000.png",
+      "I_45": "polar/37/0002_045.png",
+      "I_90": "polar/37/0002_090.png",
+      "I_135": "polar/37/0002_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0003_rgb.png",
+    "image": "rgb/37/0003_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0003_000.png",
+      "I_45": "polar/37/0003_045.png",
+      "I_90": "polar/37/0003_090.png",
+      "I_135": "polar/37/0003_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0004_rgb.png",
+    "image": "rgb/37/0004_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0004_000.png",
+      "I_45": "polar/37/0004_045.png",
+      "I_90": "polar/37/0004_090.png",
+      "I_135": "polar/37/0004_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0005_rgb.png",
+    "image": "rgb/37/0005_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0005_000.png",
+      "I_45": "polar/37/0005_045.png",
+      "I_90": "polar/37/0005_090.png",
+      "I_135": "polar/37/0005_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0006_rgb.png",
+    "image": "rgb/37/0006_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0006_000.png",
+      "I_45": "polar/37/0006_045.png",
+      "I_90": "polar/37/0006_090.png",
+      "I_135": "polar/37/0006_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0007_rgb.png",
+    "image": "rgb/37/0007_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0007_000.png",
+      "I_45": "polar/37/0007_045.png",
+      "I_90": "polar/37/0007_090.png",
+      "I_135": "polar/37/0007_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0008_rgb.png",
+    "image": "rgb/37/0008_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0008_000.png",
+      "I_45": "polar/37/0008_045.png",
+      "I_90": "polar/37/0008_090.png",
+      "I_135": "polar/37/0008_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0009_rgb.png",
+    "image": "rgb/37/0009_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0009_000.png",
+      "I_45": "polar/37/0009_045.png",
+      "I_90": "polar/37/0009_090.png",
+      "I_135": "polar/37/0009_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0010_rgb.png",
+    "image": "rgb/37/0010_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0010_000.png",
+      "I_45": "polar/37/0010_045.png",
+      "I_90": "polar/37/0010_090.png",
+      "I_135": "polar/37/0010_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0011_rgb.png",
+    "image": "rgb/37/0011_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0011_000.png",
+      "I_45": "polar/37/0011_045.png",
+      "I_90": "polar/37/0011_090.png",
+      "I_135": "polar/37/0011_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0012_rgb.png",
+    "image": "rgb/37/0012_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0012_000.png",
+      "I_45": "polar/37/0012_045.png",
+      "I_90": "polar/37/0012_090.png",
+      "I_135": "polar/37/0012_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0013_rgb.png",
+    "image": "rgb/37/0013_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0013_000.png",
+      "I_45": "polar/37/0013_045.png",
+      "I_90": "polar/37/0013_090.png",
+      "I_135": "polar/37/0013_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0014_rgb.png",
+    "image": "rgb/37/0014_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0014_000.png",
+      "I_45": "polar/37/0014_045.png",
+      "I_90": "polar/37/0014_090.png",
+      "I_135": "polar/37/0014_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0015_rgb.png",
+    "image": "rgb/37/0015_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0015_000.png",
+      "I_45": "polar/37/0015_045.png",
+      "I_90": "polar/37/0015_090.png",
+      "I_135": "polar/37/0015_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0016_rgb.png",
+    "image": "rgb/37/0016_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0016_000.png",
+      "I_45": "polar/37/0016_045.png",
+      "I_90": "polar/37/0016_090.png",
+      "I_135": "polar/37/0016_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0017_rgb.png",
+    "image": "rgb/37/0017_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0017_000.png",
+      "I_45": "polar/37/0017_045.png",
+      "I_90": "polar/37/0017_090.png",
+      "I_135": "polar/37/0017_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0018_rgb.png",
+    "image": "rgb/37/0018_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0018_000.png",
+      "I_45": "polar/37/0018_045.png",
+      "I_90": "polar/37/0018_090.png",
+      "I_135": "polar/37/0018_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0019_rgb.png",
+    "image": "rgb/37/0019_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0019_000.png",
+      "I_45": "polar/37/0019_045.png",
+      "I_90": "polar/37/0019_090.png",
+      "I_135": "polar/37/0019_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0020_rgb.png",
+    "image": "rgb/37/0020_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0020_000.png",
+      "I_45": "polar/37/0020_045.png",
+      "I_90": "polar/37/0020_090.png",
+      "I_135": "polar/37/0020_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0021_rgb.png",
+    "image": "rgb/37/0021_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0021_000.png",
+      "I_45": "polar/37/0021_045.png",
+      "I_90": "polar/37/0021_090.png",
+      "I_135": "polar/37/0021_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0022_rgb.png",
+    "image": "rgb/37/0022_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0022_000.png",
+      "I_45": "polar/37/0022_045.png",
+      "I_90": "polar/37/0022_090.png",
+      "I_135": "polar/37/0022_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0023_rgb.png",
+    "image": "rgb/37/0023_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0023_000.png",
+      "I_45": "polar/37/0023_045.png",
+      "I_90": "polar/37/0023_090.png",
+      "I_135": "polar/37/0023_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0024_rgb.png",
+    "image": "rgb/37/0024_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0024_000.png",
+      "I_45": "polar/37/0024_045.png",
+      "I_90": "polar/37/0024_090.png",
+      "I_135": "polar/37/0024_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0025_rgb.png",
+    "image": "rgb/37/0025_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0025_000.png",
+      "I_45": "polar/37/0025_045.png",
+      "I_90": "polar/37/0025_090.png",
+      "I_135": "polar/37/0025_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0026_rgb.png",
+    "image": "rgb/37/0026_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0026_000.png",
+      "I_45": "polar/37/0026_045.png",
+      "I_90": "polar/37/0026_090.png",
+      "I_135": "polar/37/0026_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0027_rgb.png",
+    "image": "rgb/37/0027_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0027_000.png",
+      "I_45": "polar/37/0027_045.png",
+      "I_90": "polar/37/0027_090.png",
+      "I_135": "polar/37/0027_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0028_rgb.png",
+    "image": "rgb/37/0028_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0028_000.png",
+      "I_45": "polar/37/0028_045.png",
+      "I_90": "polar/37/0028_090.png",
+      "I_135": "polar/37/0028_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0029_rgb.png",
+    "image": "rgb/37/0029_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0029_000.png",
+      "I_45": "polar/37/0029_045.png",
+      "I_90": "polar/37/0029_090.png",
+      "I_135": "polar/37/0029_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0030_rgb.png",
+    "image": "rgb/37/0030_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0030_000.png",
+      "I_45": "polar/37/0030_045.png",
+      "I_90": "polar/37/0030_090.png",
+      "I_135": "polar/37/0030_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "37_0031_rgb.png",
+    "image": "rgb/37/0031_rgb.png",
+    "gt_image": "GT/37/0000_rgb.png",
+    "scene_id": "37",
+    "polar_paths": {
+      "I_0": "polar/37/0031_000.png",
+      "I_45": "polar/37/0031_045.png",
+      "I_90": "polar/37/0031_090.png",
+      "I_135": "polar/37/0031_135.png"
+    },
+    "caption": "Several potted plants in front of a brick wall."
+  },
+  {
+    "id": "05_0000_rgb.png",
+    "image": "rgb/05/0000_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0000_000.png",
+      "I_45": "polar/05/0000_045.png",
+      "I_90": "polar/05/0000_090.png",
+      "I_135": "polar/05/0000_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0001_rgb.png",
+    "image": "rgb/05/0001_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0001_000.png",
+      "I_45": "polar/05/0001_045.png",
+      "I_90": "polar/05/0001_090.png",
+      "I_135": "polar/05/0001_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0002_rgb.png",
+    "image": "rgb/05/0002_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0002_000.png",
+      "I_45": "polar/05/0002_045.png",
+      "I_90": "polar/05/0002_090.png",
+      "I_135": "polar/05/0002_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0003_rgb.png",
+    "image": "rgb/05/0003_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0003_000.png",
+      "I_45": "polar/05/0003_045.png",
+      "I_90": "polar/05/0003_090.png",
+      "I_135": "polar/05/0003_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0004_rgb.png",
+    "image": "rgb/05/0004_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0004_000.png",
+      "I_45": "polar/05/0004_045.png",
+      "I_90": "polar/05/0004_090.png",
+      "I_135": "polar/05/0004_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0005_rgb.png",
+    "image": "rgb/05/0005_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0005_000.png",
+      "I_45": "polar/05/0005_045.png",
+      "I_90": "polar/05/0005_090.png",
+      "I_135": "polar/05/0005_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0006_rgb.png",
+    "image": "rgb/05/0006_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0006_000.png",
+      "I_45": "polar/05/0006_045.png",
+      "I_90": "polar/05/0006_090.png",
+      "I_135": "polar/05/0006_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0007_rgb.png",
+    "image": "rgb/05/0007_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0007_000.png",
+      "I_45": "polar/05/0007_045.png",
+      "I_90": "polar/05/0007_090.png",
+      "I_135": "polar/05/0007_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0008_rgb.png",
+    "image": "rgb/05/0008_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0008_000.png",
+      "I_45": "polar/05/0008_045.png",
+      "I_90": "polar/05/0008_090.png",
+      "I_135": "polar/05/0008_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0009_rgb.png",
+    "image": "rgb/05/0009_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0009_000.png",
+      "I_45": "polar/05/0009_045.png",
+      "I_90": "polar/05/0009_090.png",
+      "I_135": "polar/05/0009_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "05_0010_rgb.png",
+    "image": "rgb/05/0010_rgb.png",
+    "gt_image": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "polar_paths": {
+      "I_0": "polar/05/0010_000.png",
+      "I_45": "polar/05/0010_045.png",
+      "I_90": "polar/05/0010_090.png",
+      "I_135": "polar/05/0010_135.png"
+    },
+    "caption": "A sign reads \"READY GO\" in orange letters on a concrete surface."
+  },
+  {
+    "id": "23_0000_rgb.png",
+    "image": "rgb/23/0000_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0000_000.png",
+      "I_45": "polar/23/0000_045.png",
+      "I_90": "polar/23/0000_090.png",
+      "I_135": "polar/23/0000_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0001_rgb.png",
+    "image": "rgb/23/0001_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0001_000.png",
+      "I_45": "polar/23/0001_045.png",
+      "I_90": "polar/23/0001_090.png",
+      "I_135": "polar/23/0001_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0002_rgb.png",
+    "image": "rgb/23/0002_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0002_000.png",
+      "I_45": "polar/23/0002_045.png",
+      "I_90": "polar/23/0002_090.png",
+      "I_135": "polar/23/0002_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0003_rgb.png",
+    "image": "rgb/23/0003_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0003_000.png",
+      "I_45": "polar/23/0003_045.png",
+      "I_90": "polar/23/0003_090.png",
+      "I_135": "polar/23/0003_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0004_rgb.png",
+    "image": "rgb/23/0004_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0004_000.png",
+      "I_45": "polar/23/0004_045.png",
+      "I_90": "polar/23/0004_090.png",
+      "I_135": "polar/23/0004_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0005_rgb.png",
+    "image": "rgb/23/0005_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0005_000.png",
+      "I_45": "polar/23/0005_045.png",
+      "I_90": "polar/23/0005_090.png",
+      "I_135": "polar/23/0005_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0006_rgb.png",
+    "image": "rgb/23/0006_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0006_000.png",
+      "I_45": "polar/23/0006_045.png",
+      "I_90": "polar/23/0006_090.png",
+      "I_135": "polar/23/0006_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0007_rgb.png",
+    "image": "rgb/23/0007_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0007_000.png",
+      "I_45": "polar/23/0007_045.png",
+      "I_90": "polar/23/0007_090.png",
+      "I_135": "polar/23/0007_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0008_rgb.png",
+    "image": "rgb/23/0008_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0008_000.png",
+      "I_45": "polar/23/0008_045.png",
+      "I_90": "polar/23/0008_090.png",
+      "I_135": "polar/23/0008_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0009_rgb.png",
+    "image": "rgb/23/0009_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0009_000.png",
+      "I_45": "polar/23/0009_045.png",
+      "I_90": "polar/23/0009_090.png",
+      "I_135": "polar/23/0009_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0010_rgb.png",
+    "image": "rgb/23/0010_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0010_000.png",
+      "I_45": "polar/23/0010_045.png",
+      "I_90": "polar/23/0010_090.png",
+      "I_135": "polar/23/0010_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0011_rgb.png",
+    "image": "rgb/23/0011_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0011_000.png",
+      "I_45": "polar/23/0011_045.png",
+      "I_90": "polar/23/0011_090.png",
+      "I_135": "polar/23/0011_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0012_rgb.png",
+    "image": "rgb/23/0012_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0012_000.png",
+      "I_45": "polar/23/0012_045.png",
+      "I_90": "polar/23/0012_090.png",
+      "I_135": "polar/23/0012_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0013_rgb.png",
+    "image": "rgb/23/0013_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0013_000.png",
+      "I_45": "polar/23/0013_045.png",
+      "I_90": "polar/23/0013_090.png",
+      "I_135": "polar/23/0013_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0014_rgb.png",
+    "image": "rgb/23/0014_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0014_000.png",
+      "I_45": "polar/23/0014_045.png",
+      "I_90": "polar/23/0014_090.png",
+      "I_135": "polar/23/0014_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0015_rgb.png",
+    "image": "rgb/23/0015_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0015_000.png",
+      "I_45": "polar/23/0015_045.png",
+      "I_90": "polar/23/0015_090.png",
+      "I_135": "polar/23/0015_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0016_rgb.png",
+    "image": "rgb/23/0016_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0016_000.png",
+      "I_45": "polar/23/0016_045.png",
+      "I_90": "polar/23/0016_090.png",
+      "I_135": "polar/23/0016_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0017_rgb.png",
+    "image": "rgb/23/0017_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0017_000.png",
+      "I_45": "polar/23/0017_045.png",
+      "I_90": "polar/23/0017_090.png",
+      "I_135": "polar/23/0017_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0018_rgb.png",
+    "image": "rgb/23/0018_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0018_000.png",
+      "I_45": "polar/23/0018_045.png",
+      "I_90": "polar/23/0018_090.png",
+      "I_135": "polar/23/0018_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0019_rgb.png",
+    "image": "rgb/23/0019_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0019_000.png",
+      "I_45": "polar/23/0019_045.png",
+      "I_90": "polar/23/0019_090.png",
+      "I_135": "polar/23/0019_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0020_rgb.png",
+    "image": "rgb/23/0020_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0020_000.png",
+      "I_45": "polar/23/0020_045.png",
+      "I_90": "polar/23/0020_090.png",
+      "I_135": "polar/23/0020_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0021_rgb.png",
+    "image": "rgb/23/0021_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0021_000.png",
+      "I_45": "polar/23/0021_045.png",
+      "I_90": "polar/23/0021_090.png",
+      "I_135": "polar/23/0021_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0022_rgb.png",
+    "image": "rgb/23/0022_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0022_000.png",
+      "I_45": "polar/23/0022_045.png",
+      "I_90": "polar/23/0022_090.png",
+      "I_135": "polar/23/0022_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0023_rgb.png",
+    "image": "rgb/23/0023_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0023_000.png",
+      "I_45": "polar/23/0023_045.png",
+      "I_90": "polar/23/0023_090.png",
+      "I_135": "polar/23/0023_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0024_rgb.png",
+    "image": "rgb/23/0024_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0024_000.png",
+      "I_45": "polar/23/0024_045.png",
+      "I_90": "polar/23/0024_090.png",
+      "I_135": "polar/23/0024_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0025_rgb.png",
+    "image": "rgb/23/0025_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0025_000.png",
+      "I_45": "polar/23/0025_045.png",
+      "I_90": "polar/23/0025_090.png",
+      "I_135": "polar/23/0025_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0026_rgb.png",
+    "image": "rgb/23/0026_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0026_000.png",
+      "I_45": "polar/23/0026_045.png",
+      "I_90": "polar/23/0026_090.png",
+      "I_135": "polar/23/0026_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0027_rgb.png",
+    "image": "rgb/23/0027_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0027_000.png",
+      "I_45": "polar/23/0027_045.png",
+      "I_90": "polar/23/0027_090.png",
+      "I_135": "polar/23/0027_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0028_rgb.png",
+    "image": "rgb/23/0028_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0028_000.png",
+      "I_45": "polar/23/0028_045.png",
+      "I_90": "polar/23/0028_090.png",
+      "I_135": "polar/23/0028_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0029_rgb.png",
+    "image": "rgb/23/0029_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0029_000.png",
+      "I_45": "polar/23/0029_045.png",
+      "I_90": "polar/23/0029_090.png",
+      "I_135": "polar/23/0029_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0030_rgb.png",
+    "image": "rgb/23/0030_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0030_000.png",
+      "I_45": "polar/23/0030_045.png",
+      "I_90": "polar/23/0030_090.png",
+      "I_135": "polar/23/0030_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0031_rgb.png",
+    "image": "rgb/23/0031_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0031_000.png",
+      "I_45": "polar/23/0031_045.png",
+      "I_90": "polar/23/0031_090.png",
+      "I_135": "polar/23/0031_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0032_rgb.png",
+    "image": "rgb/23/0032_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0032_000.png",
+      "I_45": "polar/23/0032_045.png",
+      "I_90": "polar/23/0032_090.png",
+      "I_135": "polar/23/0032_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0033_rgb.png",
+    "image": "rgb/23/0033_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0033_000.png",
+      "I_45": "polar/23/0033_045.png",
+      "I_90": "polar/23/0033_090.png",
+      "I_135": "polar/23/0033_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0034_rgb.png",
+    "image": "rgb/23/0034_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0034_000.png",
+      "I_45": "polar/23/0034_045.png",
+      "I_90": "polar/23/0034_090.png",
+      "I_135": "polar/23/0034_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0035_rgb.png",
+    "image": "rgb/23/0035_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0035_000.png",
+      "I_45": "polar/23/0035_045.png",
+      "I_90": "polar/23/0035_090.png",
+      "I_135": "polar/23/0035_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0036_rgb.png",
+    "image": "rgb/23/0036_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0036_000.png",
+      "I_45": "polar/23/0036_045.png",
+      "I_90": "polar/23/0036_090.png",
+      "I_135": "polar/23/0036_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0037_rgb.png",
+    "image": "rgb/23/0037_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0037_000.png",
+      "I_45": "polar/23/0037_045.png",
+      "I_90": "polar/23/0037_090.png",
+      "I_135": "polar/23/0037_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0038_rgb.png",
+    "image": "rgb/23/0038_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0038_000.png",
+      "I_45": "polar/23/0038_045.png",
+      "I_90": "polar/23/0038_090.png",
+      "I_135": "polar/23/0038_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0039_rgb.png",
+    "image": "rgb/23/0039_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0039_000.png",
+      "I_45": "polar/23/0039_045.png",
+      "I_90": "polar/23/0039_090.png",
+      "I_135": "polar/23/0039_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0040_rgb.png",
+    "image": "rgb/23/0040_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0040_000.png",
+      "I_45": "polar/23/0040_045.png",
+      "I_90": "polar/23/0040_090.png",
+      "I_135": "polar/23/0040_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0041_rgb.png",
+    "image": "rgb/23/0041_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0041_000.png",
+      "I_45": "polar/23/0041_045.png",
+      "I_90": "polar/23/0041_090.png",
+      "I_135": "polar/23/0041_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0042_rgb.png",
+    "image": "rgb/23/0042_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0042_000.png",
+      "I_45": "polar/23/0042_045.png",
+      "I_90": "polar/23/0042_090.png",
+      "I_135": "polar/23/0042_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0043_rgb.png",
+    "image": "rgb/23/0043_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0043_000.png",
+      "I_45": "polar/23/0043_045.png",
+      "I_90": "polar/23/0043_090.png",
+      "I_135": "polar/23/0043_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0044_rgb.png",
+    "image": "rgb/23/0044_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0044_000.png",
+      "I_45": "polar/23/0044_045.png",
+      "I_90": "polar/23/0044_090.png",
+      "I_135": "polar/23/0044_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0045_rgb.png",
+    "image": "rgb/23/0045_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0045_000.png",
+      "I_45": "polar/23/0045_045.png",
+      "I_90": "polar/23/0045_090.png",
+      "I_135": "polar/23/0045_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0046_rgb.png",
+    "image": "rgb/23/0046_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0046_000.png",
+      "I_45": "polar/23/0046_045.png",
+      "I_90": "polar/23/0046_090.png",
+      "I_135": "polar/23/0046_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0047_rgb.png",
+    "image": "rgb/23/0047_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0047_000.png",
+      "I_45": "polar/23/0047_045.png",
+      "I_90": "polar/23/0047_090.png",
+      "I_135": "polar/23/0047_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0048_rgb.png",
+    "image": "rgb/23/0048_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0048_000.png",
+      "I_45": "polar/23/0048_045.png",
+      "I_90": "polar/23/0048_090.png",
+      "I_135": "polar/23/0048_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0049_rgb.png",
+    "image": "rgb/23/0049_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0049_000.png",
+      "I_45": "polar/23/0049_045.png",
+      "I_90": "polar/23/0049_090.png",
+      "I_135": "polar/23/0049_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0050_rgb.png",
+    "image": "rgb/23/0050_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0050_000.png",
+      "I_45": "polar/23/0050_045.png",
+      "I_90": "polar/23/0050_090.png",
+      "I_135": "polar/23/0050_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0051_rgb.png",
+    "image": "rgb/23/0051_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0051_000.png",
+      "I_45": "polar/23/0051_045.png",
+      "I_90": "polar/23/0051_090.png",
+      "I_135": "polar/23/0051_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0052_rgb.png",
+    "image": "rgb/23/0052_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0052_000.png",
+      "I_45": "polar/23/0052_045.png",
+      "I_90": "polar/23/0052_090.png",
+      "I_135": "polar/23/0052_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0053_rgb.png",
+    "image": "rgb/23/0053_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0053_000.png",
+      "I_45": "polar/23/0053_045.png",
+      "I_90": "polar/23/0053_090.png",
+      "I_135": "polar/23/0053_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0054_rgb.png",
+    "image": "rgb/23/0054_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0054_000.png",
+      "I_45": "polar/23/0054_045.png",
+      "I_90": "polar/23/0054_090.png",
+      "I_135": "polar/23/0054_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0055_rgb.png",
+    "image": "rgb/23/0055_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0055_000.png",
+      "I_45": "polar/23/0055_045.png",
+      "I_90": "polar/23/0055_090.png",
+      "I_135": "polar/23/0055_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0056_rgb.png",
+    "image": "rgb/23/0056_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0056_000.png",
+      "I_45": "polar/23/0056_045.png",
+      "I_90": "polar/23/0056_090.png",
+      "I_135": "polar/23/0056_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0057_rgb.png",
+    "image": "rgb/23/0057_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0057_000.png",
+      "I_45": "polar/23/0057_045.png",
+      "I_90": "polar/23/0057_090.png",
+      "I_135": "polar/23/0057_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0058_rgb.png",
+    "image": "rgb/23/0058_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0058_000.png",
+      "I_45": "polar/23/0058_045.png",
+      "I_90": "polar/23/0058_090.png",
+      "I_135": "polar/23/0058_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0059_rgb.png",
+    "image": "rgb/23/0059_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0059_000.png",
+      "I_45": "polar/23/0059_045.png",
+      "I_90": "polar/23/0059_090.png",
+      "I_135": "polar/23/0059_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0060_rgb.png",
+    "image": "rgb/23/0060_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0060_000.png",
+      "I_45": "polar/23/0060_045.png",
+      "I_90": "polar/23/0060_090.png",
+      "I_135": "polar/23/0060_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0061_rgb.png",
+    "image": "rgb/23/0061_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0061_000.png",
+      "I_45": "polar/23/0061_045.png",
+      "I_90": "polar/23/0061_090.png",
+      "I_135": "polar/23/0061_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0062_rgb.png",
+    "image": "rgb/23/0062_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0062_000.png",
+      "I_45": "polar/23/0062_045.png",
+      "I_90": "polar/23/0062_090.png",
+      "I_135": "polar/23/0062_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0063_rgb.png",
+    "image": "rgb/23/0063_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0063_000.png",
+      "I_45": "polar/23/0063_045.png",
+      "I_90": "polar/23/0063_090.png",
+      "I_135": "polar/23/0063_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0064_rgb.png",
+    "image": "rgb/23/0064_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0064_000.png",
+      "I_45": "polar/23/0064_045.png",
+      "I_90": "polar/23/0064_090.png",
+      "I_135": "polar/23/0064_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0065_rgb.png",
+    "image": "rgb/23/0065_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0065_000.png",
+      "I_45": "polar/23/0065_045.png",
+      "I_90": "polar/23/0065_090.png",
+      "I_135": "polar/23/0065_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0066_rgb.png",
+    "image": "rgb/23/0066_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0066_000.png",
+      "I_45": "polar/23/0066_045.png",
+      "I_90": "polar/23/0066_090.png",
+      "I_135": "polar/23/0066_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0067_rgb.png",
+    "image": "rgb/23/0067_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0067_000.png",
+      "I_45": "polar/23/0067_045.png",
+      "I_90": "polar/23/0067_090.png",
+      "I_135": "polar/23/0067_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0068_rgb.png",
+    "image": "rgb/23/0068_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0068_000.png",
+      "I_45": "polar/23/0068_045.png",
+      "I_90": "polar/23/0068_090.png",
+      "I_135": "polar/23/0068_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0069_rgb.png",
+    "image": "rgb/23/0069_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0069_000.png",
+      "I_45": "polar/23/0069_045.png",
+      "I_90": "polar/23/0069_090.png",
+      "I_135": "polar/23/0069_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0070_rgb.png",
+    "image": "rgb/23/0070_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0070_000.png",
+      "I_45": "polar/23/0070_045.png",
+      "I_90": "polar/23/0070_090.png",
+      "I_135": "polar/23/0070_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0071_rgb.png",
+    "image": "rgb/23/0071_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0071_000.png",
+      "I_45": "polar/23/0071_045.png",
+      "I_90": "polar/23/0071_090.png",
+      "I_135": "polar/23/0071_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0072_rgb.png",
+    "image": "rgb/23/0072_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0072_000.png",
+      "I_45": "polar/23/0072_045.png",
+      "I_90": "polar/23/0072_090.png",
+      "I_135": "polar/23/0072_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0073_rgb.png",
+    "image": "rgb/23/0073_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0073_000.png",
+      "I_45": "polar/23/0073_045.png",
+      "I_90": "polar/23/0073_090.png",
+      "I_135": "polar/23/0073_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0074_rgb.png",
+    "image": "rgb/23/0074_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0074_000.png",
+      "I_45": "polar/23/0074_045.png",
+      "I_90": "polar/23/0074_090.png",
+      "I_135": "polar/23/0074_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0075_rgb.png",
+    "image": "rgb/23/0075_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0075_000.png",
+      "I_45": "polar/23/0075_045.png",
+      "I_90": "polar/23/0075_090.png",
+      "I_135": "polar/23/0075_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0076_rgb.png",
+    "image": "rgb/23/0076_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0076_000.png",
+      "I_45": "polar/23/0076_045.png",
+      "I_90": "polar/23/0076_090.png",
+      "I_135": "polar/23/0076_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0077_rgb.png",
+    "image": "rgb/23/0077_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0077_000.png",
+      "I_45": "polar/23/0077_045.png",
+      "I_90": "polar/23/0077_090.png",
+      "I_135": "polar/23/0077_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0078_rgb.png",
+    "image": "rgb/23/0078_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0078_000.png",
+      "I_45": "polar/23/0078_045.png",
+      "I_90": "polar/23/0078_090.png",
+      "I_135": "polar/23/0078_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0079_rgb.png",
+    "image": "rgb/23/0079_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0079_000.png",
+      "I_45": "polar/23/0079_045.png",
+      "I_90": "polar/23/0079_090.png",
+      "I_135": "polar/23/0079_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0080_rgb.png",
+    "image": "rgb/23/0080_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0080_000.png",
+      "I_45": "polar/23/0080_045.png",
+      "I_90": "polar/23/0080_090.png",
+      "I_135": "polar/23/0080_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0081_rgb.png",
+    "image": "rgb/23/0081_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0081_000.png",
+      "I_45": "polar/23/0081_045.png",
+      "I_90": "polar/23/0081_090.png",
+      "I_135": "polar/23/0081_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0082_rgb.png",
+    "image": "rgb/23/0082_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0082_000.png",
+      "I_45": "polar/23/0082_045.png",
+      "I_90": "polar/23/0082_090.png",
+      "I_135": "polar/23/0082_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0083_rgb.png",
+    "image": "rgb/23/0083_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0083_000.png",
+      "I_45": "polar/23/0083_045.png",
+      "I_90": "polar/23/0083_090.png",
+      "I_135": "polar/23/0083_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0084_rgb.png",
+    "image": "rgb/23/0084_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0084_000.png",
+      "I_45": "polar/23/0084_045.png",
+      "I_90": "polar/23/0084_090.png",
+      "I_135": "polar/23/0084_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0085_rgb.png",
+    "image": "rgb/23/0085_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0085_000.png",
+      "I_45": "polar/23/0085_045.png",
+      "I_90": "polar/23/0085_090.png",
+      "I_135": "polar/23/0085_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0086_rgb.png",
+    "image": "rgb/23/0086_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0086_000.png",
+      "I_45": "polar/23/0086_045.png",
+      "I_90": "polar/23/0086_090.png",
+      "I_135": "polar/23/0086_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0087_rgb.png",
+    "image": "rgb/23/0087_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0087_000.png",
+      "I_45": "polar/23/0087_045.png",
+      "I_90": "polar/23/0087_090.png",
+      "I_135": "polar/23/0087_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0088_rgb.png",
+    "image": "rgb/23/0088_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0088_000.png",
+      "I_45": "polar/23/0088_045.png",
+      "I_90": "polar/23/0088_090.png",
+      "I_135": "polar/23/0088_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0089_rgb.png",
+    "image": "rgb/23/0089_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0089_000.png",
+      "I_45": "polar/23/0089_045.png",
+      "I_90": "polar/23/0089_090.png",
+      "I_135": "polar/23/0089_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0090_rgb.png",
+    "image": "rgb/23/0090_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0090_000.png",
+      "I_45": "polar/23/0090_045.png",
+      "I_90": "polar/23/0090_090.png",
+      "I_135": "polar/23/0090_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  },
+  {
+    "id": "23_0091_rgb.png",
+    "image": "rgb/23/0091_rgb.png",
+    "gt_image": "GT/23/0000_rgb.png",
+    "scene_id": "23",
+    "polar_paths": {
+      "I_0": "polar/23/0091_000.png",
+      "I_45": "polar/23/0091_045.png",
+      "I_90": "polar/23/0091_090.png",
+      "I_135": "polar/23/0091_135.png"
+    },
+    "caption": "A brown wooden panel is in front of a blue brick wall, behind which there is a black metal fence holding up a potted plant."
+  }
+]

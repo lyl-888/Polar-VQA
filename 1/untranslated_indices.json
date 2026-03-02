@@ -1,0 +1,117 @@
+{
+  "total_untranslated_items": 5,
+  "untranslated_indices": [
+    383,
+    479,
+    752,
+    836,
+    915
+  ],
+  "untranslated_items": [
+    {
+      "index": 383,
+      "scene_id": "39",
+      "subtype": "spatial",
+      "untranslated": [
+        {
+          "from": "human",
+          "value": "白色混凝土空心砖墙左侧上方的区域是什么物体？"
+        }
+      ],
+      "all_conversations": [
+        {
+          "from": "human",
+          "value": "白色混凝土空心砖墙左侧上方的区域是什么物体？"
+        },
+        {
+          "from": "gpt",
+          "value": "It is part of the red metal fence gate."
+        }
+      ]
+    },
+    {
+      "index": 479,
+      "scene_id": "32",
+      "subtype": "spatial",
+      "untranslated": [
+        {
+          "from": "gpt",
+          "value": "是砖墙。"
+        }
+      ],
+      "all_conversations": [
+        {
+          "from": "human",
+          "value": "What is the area located at the bottom left corner of the white decoration in the upper right corner of the screen?"
+        },
+        {
+          "from": "gpt",
+          "value": "是砖墙。"
+        }
+      ]
+    },
+    {
+      "index": 752,
+      "scene_id": "30",
+      "subtype": "spatial",
+      "untranslated": [
+        {
+          "from": "human",
+          "value": "位于垂直栏杆后方的物体是什么？"
+        }
+      ],
+      "all_conversations": [
+        {
+          "from": "human",
+          "value": "位于垂直栏杆后方的物体是什么？"
+        },
+        {
+          "from": "gpt",
+          "value": "It's a pink cartoon pony."
+        }
+      ]
+    },
+    {
+      "index": 836,
+      "scene_id": "15",
+      "subtype": "spatial",
+      "untranslated": [
+        {
+          "from": "human",
+          "value": "“毒手”右侧是什么物体？"
+        }
+      ],
+      "all_conversations": [
+        {
+          "from": "human",
+          "value": "“毒手”右侧是什么物体？"
+        },
+        {
+          "from": "gpt",
+          "value": "It is the Chinese character for 'divine machine'."
+        }
+      ]
+    },
+    {
+      "index": 915,
+      "scene_id": "34",
+      "subtype": "content",
+      "untranslated": [
+        {
+          "from": "gpt",
+          "value": "这是一个大型抽象壁画的一部分，具有富有表现力的笔触。主要颜色包括深蓝色、白色和一片显眼的橙黄色区域。"
+        }
+      ],
+      "all_conversations": [
+        {
+          "from": "human",
+          "value": "Please briefly describe the visual content within the selected area."
+        },
+        {
+          "from": "gpt",
+          "value": "这是一个大型抽象壁画的一部分，具有富有表现力的笔触。主要颜色包括深蓝色、白色和一片显眼的橙黄色区域。"
+        }
+      ]
+    }
+  ]
+}

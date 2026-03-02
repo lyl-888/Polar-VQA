@@ -1,0 +1,789 @@
+{
+  "dolp_encoder_sorted": [
+    {
+      "rank": 1,
+      "scene_id": "83",
+      "psnr_masked_dolp": 36.089174995040196,
+      "mse_masked_dolp": 0.00047844689982049773,
+      "num_samples": 123
+    },
+    {
+      "rank": 2,
+      "scene_id": "87",
+      "psnr_masked_dolp": 36.042894921260945,
+      "mse_masked_dolp": 0.0004378526114123815,
+      "num_samples": 64
+    },
+    {
+      "rank": 3,
+      "scene_id": "65",
+      "psnr_masked_dolp": 32.645073678130764,
+      "mse_masked_dolp": 0.0006678373736374649,
+      "num_samples": 36
+    },
+    {
+      "rank": 4,
+      "scene_id": "03",
+      "psnr_masked_dolp": 31.891879344343586,
+      "mse_masked_dolp": 0.0006701543767887511,
+      "num_samples": 19
+    },
+    {
+      "rank": 5,
+      "scene_id": "111",
+      "psnr_masked_dolp": 31.355251803979225,
+      "mse_masked_dolp": 0.0011158570808600162,
+      "num_samples": 79
+    },
+    {
+      "rank": 6,
+      "scene_id": "99",
+      "psnr_masked_dolp": 30.43933668228397,
+      "mse_masked_dolp": 0.0009397242904704964,
+      "num_samples": 58
+    },
+    {
+      "rank": 7,
+      "scene_id": "59",
+      "psnr_masked_dolp": 30.05352057914678,
+      "mse_masked_dolp": 0.0014474747211871935,
+      "num_samples": 14
+    },
+    {
+      "rank": 8,
+      "scene_id": "98",
+      "psnr_masked_dolp": 29.69127912146824,
+      "mse_masked_dolp": 0.0013754004970399022,
+      "num_samples": 61
+    },
+    {
+      "rank": 9,
+      "scene_id": "76",
+      "psnr_masked_dolp": 29.485664952955762,
+      "mse_masked_dolp": 0.0014533396405078326,
+      "num_samples": 104
+    },
+    {
+      "rank": 10,
+      "scene_id": "62",
+      "psnr_masked_dolp": 29.460060882932577,
+      "mse_masked_dolp": 0.0014528582629282027,
+      "num_samples": 20
+    },
+    {
+      "rank": 11,
+      "scene_id": "41",
+      "psnr_masked_dolp": 29.311315658743652,
+      "mse_masked_dolp": 0.001584768018985898,
+      "num_samples": 79
+    },
+    {
+      "rank": 12,
+      "scene_id": "82",
+      "psnr_masked_dolp": 28.84170495693697,
+      "mse_masked_dolp": 0.001535628401754485,
+      "num_samples": 122
+    },
+    {
+      "rank": 13,
+      "scene_id": "91",
+      "psnr_masked_dolp": 28.71043516289969,
+      "mse_masked_dolp": 0.0019049463904636024,
+      "num_samples": 43
+    },
+    {
+      "rank": 14,
+      "scene_id": "100",
+      "psnr_masked_dolp": 28.67930538830781,
+      "mse_masked_dolp": 0.0019698692186091863,
+      "num_samples": 68
+    },
+    {
+      "rank": 15,
+      "scene_id": "94",
+      "psnr_masked_dolp": 28.381852580846033,
+      "mse_masked_dolp": 0.002140748100184904,
+      "num_samples": 41
+    },
+    {
+      "rank": 16,
+      "scene_id": "84",
+      "psnr_masked_dolp": 28.295371432438863,
+      "mse_masked_dolp": 0.002350429404032184,
+      "num_samples": 64
+    },
+    {
+      "rank": 17,
+      "scene_id": "00",
+      "psnr_masked_dolp": 28.28187108141284,
+      "mse_masked_dolp": 0.0021672664416572925,
+      "num_samples": 11
+    },
+    {
+      "rank": 18,
+      "scene_id": "28",
+      "psnr_masked_dolp": 27.97609751582284,
+      "mse_masked_dolp": 0.002346181641590446,
+      "num_samples": 61
+    },
+    {
+      "rank": 19,
+      "scene_id": "106",
+      "psnr_masked_dolp": 27.960571573779,
+      "mse_masked_dolp": 0.0017859342728748144,
+      "num_samples": 279
+    },
+    {
+      "rank": 20,
+      "scene_id": "57",
+      "psnr_masked_dolp": 27.95212099161739,
+      "mse_masked_dolp": 0.0020194375365373152,
+      "num_samples": 101
+    },
+    {
+      "rank": 21,
+      "scene_id": "97",
+      "psnr_masked_dolp": 27.61232216811709,
+      "mse_masked_dolp": 0.0028080583554295053,
+      "num_samples": 82
+    },
+    {
+      "rank": 22,
+      "scene_id": "06",
+      "psnr_masked_dolp": 27.52779168151612,
+      "mse_masked_dolp": 0.0023919888744785567,
+      "num_samples": 32
+    },
+    {
+      "rank": 23,
+      "scene_id": "92",
+      "psnr_masked_dolp": 27.517063427972356,
+      "mse_masked_dolp": 0.0018471759715211692,
+      "num_samples": 89
+    },
+    {
+      "rank": 24,
+      "scene_id": "16",
+      "psnr_masked_dolp": 27.263713619137977,
+      "mse_masked_dolp": 0.0029395205039141137,
+      "num_samples": 86
+    },
+    {
+      "rank": 25,
+      "scene_id": "71",
+      "psnr_masked_dolp": 27.254957592086917,
+      "mse_masked_dolp": 0.002031793032074347,
+      "num_samples": 32
+    },
+    {
+      "rank": 26,
+      "scene_id": "108",
+      "psnr_masked_dolp": 27.193643267958308,
+      "mse_masked_dolp": 0.0022932726510420994,
+      "num_samples": 27
+    },
+    {
+      "rank": 27,
+      "scene_id": "74",
+      "psnr_masked_dolp": 27.17232928801968,
+      "mse_masked_dolp": 0.0020473349917059145,
+      "num_samples": 18
+    },
+    {
+      "rank": 28,
+      "scene_id": "81",
+      "psnr_masked_dolp": 27.16077069303842,
+      "mse_masked_dolp": 0.00209494632410927,
+      "num_samples": 93
+    },
+    {
+      "rank": 29,
+      "scene_id": "66",
+      "psnr_masked_dolp": 27.130945908352974,
+      "mse_masked_dolp": 0.0021275281816577683,
+      "num_samples": 13
+    },
+    {
+      "rank": 30,
+      "scene_id": "04",
+      "psnr_masked_dolp": 27.05522693857032,
+      "mse_masked_dolp": 0.0021490857593323056,
+      "num_samples": 19
+    },
+    {
+      "rank": 31,
+      "scene_id": "12",
+      "psnr_masked_dolp": 27.03783853582931,
+      "mse_masked_dolp": 0.0022528467561642174,
+      "num_samples": 16
+    },
+    {
+      "rank": 32,
+      "scene_id": "15",
+      "psnr_masked_dolp": 27.008960397166856,
+      "mse_masked_dolp": 0.0020800348720513284,
+      "num_samples": 40
+    },
+    {
+      "rank": 33,
+      "scene_id": "86",
+      "psnr_masked_dolp": 26.701563198693048,
+      "mse_masked_dolp": 0.0032214323465309257,
+      "num_samples": 67
+    },
+    {
+      "rank": 34,
+      "scene_id": "63",
+      "psnr_masked_dolp": 26.650795677507077,
+      "mse_masked_dolp": 0.0035174223994545173,
+      "num_samples": 16
+    },
+    {
+      "rank": 35,
+      "scene_id": "39",
+      "psnr_masked_dolp": 26.61959729890301,
+      "mse_masked_dolp": 0.0026705990155908065,
+      "num_samples": 52
+    },
+    {
+      "rank": 36,
+      "scene_id": "110",
+      "psnr_masked_dolp": 26.51151256568839,
+      "mse_masked_dolp": 0.002805960748810321,
+      "num_samples": 60
+    },
+    {
+      "rank": 37,
+      "scene_id": "89",
+      "psnr_masked_dolp": 25.903222896616086,
+      "mse_masked_dolp": 0.00322790121572325,
+      "num_samples": 48
+    },
+    {
+      "rank": 38,
+      "scene_id": "103",
+      "psnr_masked_dolp": 25.88967050033066,
+      "mse_masked_dolp": 0.003560318227706326,
+      "num_samples": 296
+    },
+    {
+      "rank": 39,
+      "scene_id": "78",
+      "psnr_masked_dolp": 25.643452663802,
+      "mse_masked_dolp": 0.0029593215375724766,
+      "num_samples": 18
+    },
+    {
+      "rank": 40,
+      "scene_id": "38",
+      "psnr_masked_dolp": 25.572521228531244,
+      "mse_masked_dolp": 0.0032073267681810716,
+      "num_samples": 13
+    },
+    {
+      "rank": 41,
+      "scene_id": "17",
+      "psnr_masked_dolp": 25.43813065440529,
+      "mse_masked_dolp": 0.0055347730542255,
+      "num_samples": 72
+    },
+    {
+      "rank": 42,
+      "scene_id": "80",
+      "psnr_masked_dolp": 25.121412794405916,
+      "mse_masked_dolp": 0.0041373006644703095,
+      "num_samples": 168
+    },
+    {
+      "rank": 43,
+      "scene_id": "19",
+      "psnr_masked_dolp": 25.11355953507391,
+      "mse_masked_dolp": 0.004412621380856299,
+      "num_samples": 98
+    },
+    {
+      "rank": 44,
+      "scene_id": "18",
+      "psnr_masked_dolp": 25.045885894801003,
+      "mse_masked_dolp": 0.0033778203392608296,
+      "num_samples": 18
+    },
+    {
+      "rank": 45,
+      "scene_id": "72",
+      "psnr_masked_dolp": 24.837558339647355,
+      "mse_masked_dolp": 0.003993998827605412,
+      "num_samples": 29
+    },
+    {
+      "rank": 46,
+      "scene_id": "85",
+      "psnr_masked_dolp": 24.709064572770814,
+      "mse_masked_dolp": 0.005010131875320712,
+      "num_samples": 127
+    },
+    {
+      "rank": 47,
+      "scene_id": "24",
+      "psnr_masked_dolp": 24.569099303429255,
+      "mse_masked_dolp": 0.005186510866279809,
+      "num_samples": 49
+    },
+    {
+      "rank": 48,
+      "scene_id": "11",
+      "psnr_masked_dolp": 24.466144429018662,
+      "mse_masked_dolp": 0.003691562750775899,
+      "num_samples": 7
+    },
+    {
+      "rank": 49,
+      "scene_id": "93",
+      "psnr_masked_dolp": 24.446547093088128,
+      "mse_masked_dolp": 0.0038282872533033554,
+      "num_samples": 38
+    },
+    {
+      "rank": 50,
+      "scene_id": "40",
+      "psnr_masked_dolp": 24.291920995427564,
+      "mse_masked_dolp": 0.0051041240913036745,
+      "num_samples": 32
+    },
+    {
+      "rank": 51,
+      "scene_id": "102",
+      "psnr_masked_dolp": 24.152014451909714,
+      "mse_masked_dolp": 0.00397832786526393,
+      "num_samples": 27
+    },
+    {
+      "rank": 52,
+      "scene_id": "109",
+      "psnr_masked_dolp": 24.079217732581203,
+      "mse_masked_dolp": 0.005170650290892809,
+      "num_samples": 64
+    },
+    {
+      "rank": 53,
+      "scene_id": "73",
+      "psnr_masked_dolp": 24.064966986966038,
+      "mse_masked_dolp": 0.004938647680989418,
+      "num_samples": 19
+    },
+    {
+      "rank": 54,
+      "scene_id": "70",
+      "psnr_masked_dolp": 23.86321853901589,
+      "mse_masked_dolp": 0.004569120190960045,
+      "num_samples": 24
+    },
+    {
+      "rank": 55,
+      "scene_id": "22",
+      "psnr_masked_dolp": 23.724443411733134,
+      "mse_masked_dolp": 0.00456216263745983,
+      "num_samples": 26
+    },
+    {
+      "rank": 56,
+      "scene_id": "68",
+      "psnr_masked_dolp": 23.560722142122533,
+      "mse_masked_dolp": 0.004467944653394322,
+      "num_samples": 6
+    },
+    {
+      "rank": 57,
+      "scene_id": "88",
+      "psnr_masked_dolp": 23.450060094422156,
+      "mse_masked_dolp": 0.007717071275086103,
+      "num_samples": 96
+    },
+    {
+      "rank": 58,
+      "scene_id": "02",
+      "psnr_masked_dolp": 23.432089375641095,
+      "mse_masked_dolp": 0.004620272006529073,
+      "num_samples": 6
+    },
+    {
+      "rank": 59,
+      "scene_id": "33",
+      "psnr_masked_dolp": 23.203533162810437,
+      "mse_masked_dolp": 0.005207421570084989,
+      "num_samples": 25
+    },
+    {
+      "rank": 60,
+      "scene_id": "105",
+      "psnr_masked_dolp": 23.05969958540706,
+      "mse_masked_dolp": 0.00670866836931129,
+      "num_samples": 244
+    },
+    {
+      "rank": 61,
+      "scene_id": "07",
+      "psnr_masked_dolp": 22.9644861843981,
+      "mse_masked_dolp": 0.00916060778850113,
+      "num_samples": 42
+    },
+    {
+      "rank": 62,
+      "scene_id": "96",
+      "psnr_masked_dolp": 22.888612551704497,
+      "mse_masked_dolp": 0.005971769085153938,
+      "num_samples": 50
+    },
+    {
+      "rank": 63,
+      "scene_id": "67",
+      "psnr_masked_dolp": 22.776050063866744,
+      "mse_masked_dolp": 0.006468353285030885,
+      "num_samples": 11
+    },
+    {
+      "rank": 64,
+      "scene_id": "113",
+      "psnr_masked_dolp": 22.600180900305872,
+      "mse_masked_dolp": 0.006005853651697899,
+      "num_samples": 215
+    },
+    {
+      "rank": 65,
+      "scene_id": "114",
+      "psnr_masked_dolp": 22.53032617364426,
+      "mse_masked_dolp": 0.0065175220354417845,
+      "num_samples": 220
+    },
+    {
+      "rank": 66,
+      "scene_id": "13",
+      "psnr_masked_dolp": 22.471796875497745,
+      "mse_masked_dolp": 0.006297906597835883,
+      "num_samples": 31
+    },
+    {
+      "rank": 67,
+      "scene_id": "107",
+      "psnr_masked_dolp": 22.411281288800307,
+      "mse_masked_dolp": 0.007445011809024783,
+      "num_samples": 42
+    },
+    {
+      "rank": 68,
+      "scene_id": "34",
+      "psnr_masked_dolp": 22.107163595995605,
+      "mse_masked_dolp": 0.008292910425613325,
+      "num_samples": 60
+    },
+    {
+      "rank": 69,
+      "scene_id": "27",
+      "psnr_masked_dolp": 22.065327886397885,
+      "mse_masked_dolp": 0.007625871213219527,
+      "num_samples": 70
+    },
+    {
+      "rank": 70,
+      "scene_id": "10",
+      "psnr_masked_dolp": 21.990433864273122,
+      "mse_masked_dolp": 0.006630945167588917,
+      "num_samples": 22
+    },
+    {
+      "rank": 71,
+      "scene_id": "112",
+      "psnr_masked_dolp": 21.60457127612505,
+      "mse_masked_dolp": 0.008953317597213134,
+      "num_samples": 205
+    },
+    {
+      "rank": 72,
+      "scene_id": "30",
+      "psnr_masked_dolp": 21.536747489691347,
+      "mse_masked_dolp": 0.012837179815375879,
+      "num_samples": 112
+    },
+    {
+      "rank": 73,
+      "scene_id": "43",
+      "psnr_masked_dolp": 21.399261643889727,
+      "mse_masked_dolp": 0.00894717343838974,
+      "num_samples": 84
+    },
+    {
+      "rank": 74,
+      "scene_id": "101",
+      "psnr_masked_dolp": 21.279031279516083,
+      "mse_masked_dolp": 0.009741612881961688,
+      "num_samples": 107
+    },
+    {
+      "rank": 75,
+      "scene_id": "35",
+      "psnr_masked_dolp": 21.23706711393427,
+      "mse_masked_dolp": 0.008386926531481246,
+      "num_samples": 6
+    },
+    {
+      "rank": 76,
+      "scene_id": "14",
+      "psnr_masked_dolp": 21.067008352957576,
+      "mse_masked_dolp": 0.00967410983713834,
+      "num_samples": 19
+    },
+    {
+      "rank": 77,
+      "scene_id": "23",
+      "psnr_masked_dolp": 20.691228014710713,
+      "mse_masked_dolp": 0.01121924900824366,
+      "num_samples": 92
+    },
+    {
+      "rank": 78,
+      "scene_id": "90",
+      "psnr_masked_dolp": 20.605756125046238,
+      "mse_masked_dolp": 0.011356003761578064,
+      "num_samples": 78
+    },
+    {
+      "rank": 79,
+      "scene_id": "61",
+      "psnr_masked_dolp": 20.417270667692623,
+      "mse_masked_dolp": 0.010499029338140698,
+      "num_samples": 17
+    },
+    {
+      "rank": 80,
+      "scene_id": "58",
+      "psnr_masked_dolp": 20.255647967137477,
+      "mse_masked_dolp": 0.009763161341349283,
+      "num_samples": 3
+    },
+    {
+      "rank": 81,
+      "scene_id": "20",
+      "psnr_masked_dolp": 20.114291145225895,
+      "mse_masked_dolp": 0.00987439818510955,
+      "num_samples": 11
+    },
+    {
+      "rank": 82,
+      "scene_id": "56",
+      "psnr_masked_dolp": 20.023788785749133,
+      "mse_masked_dolp": 0.011028643210011069,
+      "num_samples": 64
+    },
+    {
+      "rank": 83,
+      "scene_id": "25",
+      "psnr_masked_dolp": 19.908221031171802,
+      "mse_masked_dolp": 0.012574139979103794,
+      "num_samples": 52
+    },
+    {
+      "rank": 84,
+      "scene_id": "60",
+      "psnr_masked_dolp": 19.78142751166519,
+      "mse_masked_dolp": 0.012337362266738306,
+      "num_samples": 11
+    },
+    {
+      "rank": 85,
+      "scene_id": "21",
+      "psnr_masked_dolp": 19.734698529275793,
+      "mse_masked_dolp": 0.010750134320308765,
+      "num_samples": 12
+    },
+    {
+      "rank": 86,
+      "scene_id": "31",
+      "psnr_masked_dolp": 19.555094464767595,
+      "mse_masked_dolp": 0.011560293535391489,
+      "num_samples": 12
+    },
+    {
+      "rank": 87,
+      "scene_id": "36",
+      "psnr_masked_dolp": 19.306936657930443,
+      "mse_masked_dolp": 0.013107419804375815,
+      "num_samples": 19
+    },
+    {
+      "rank": 88,
+      "scene_id": "37",
+      "psnr_masked_dolp": 19.265813819295616,
+      "mse_masked_dolp": 0.013454280444420874,
+      "num_samples": 32
+    },
+    {
+      "rank": 89,
+      "scene_id": "05",
+      "psnr_masked_dolp": 19.251542943633833,
+      "mse_masked_dolp": 0.012584914749657566,
+      "num_samples": 11
+    },
+    {
+      "rank": 90,
+      "scene_id": "95",
+      "psnr_masked_dolp": 18.768000325667618,
+      "mse_masked_dolp": 0.014465876355428587,
+      "num_samples": 55
+    },
+    {
+      "rank": 91,
+      "scene_id": "08",
+      "psnr_masked_dolp": 18.347739279404095,
+      "mse_masked_dolp": 0.015194744686596096,
+      "num_samples": 8
+    },
+    {
+      "rank": 92,
+      "scene_id": "29",
+      "psnr_masked_dolp": 15.506680074905566,
+      "mse_masked_dolp": 0.028599355103714124,
+      "num_samples": 7
+    },
+    {
+      "rank": 93,
+      "scene_id": "42",
+      "psnr_masked_dolp": 15.061132866993196,
+      "mse_masked_dolp": 0.03119910415261984,
+      "num_samples": 4
+    }
+  ],
+  "statistics": {
+    "dolp_encoder": {
+      "mean": 24.754049340840144,
+      "std": 3.979637798595319,
+      "min": 15.061132866993196,
+      "max": 36.089174995040196,
+      "median": 24.569099303429255,
+      "range": 21.028042128046998
+    },
+    "vae": {
+      "mean": 27.212441621230376,
+      "std": 2.6502315657309086,
+      "min": 20.059210641043528,
+      "max": 33.64547597683542,
+      "median": 27.512211124102276,
+      "range": 13.586265335791893
+    },
+    "comparison": {
+      "correlation": 0.8548754548820544,
+      "mean_diff": -2.4583922803902305,
+      "std_diff": 2.1974000487448437,
+      "std_ratio": 1.5016188962709653,
+      "range_ratio": 1.5477426362821252
+    },
+    "consistency": {
+      "both_high": 39,
+      "both_low": 38,
+      "dolp_high_vae_low": 8,
+      "dolp_low_vae_high": 8,
+      "consistency_rate": 82.79569892473118
+    }
+  },
+  "inconsistent_scenes": {
+    "dolp_high_vae_low": [
+      {
+        "scene_id": "92",
+        "dolp_psnr": 27.517063427972356,
+        "vae_psnr": 27.112714788886937,
+        "diff": 0.40434863908541985
+      },
+      {
+        "scene_id": "66",
+        "dolp_psnr": 27.130945908352974,
+        "vae_psnr": 27.404148395244892,
+        "diff": -0.2732024868919183
+      },
+      {
+        "scene_id": "78",
+        "dolp_psnr": 25.643452663802,
+        "vae_psnr": 26.244095908270943,
+        "diff": -0.6006432444689409
+      },
+      {
+        "scene_id": "80",
+        "dolp_psnr": 25.121412794405916,
+        "vae_psnr": 25.776351985477266,
+        "diff": -0.6549391910713496
+      },
+      {
+        "scene_id": "17",
+        "dolp_psnr": 25.43813065440529,
+        "vae_psnr": 26.461630953682793,
+        "diff": -1.0235002992775044
+      },
+      {
+        "scene_id": "85",
+        "dolp_psnr": 24.709064572770814,
+        "vae_psnr": 26.192775546096442,
+        "diff": -1.4837109733256284
+      },
+      {
+        "scene_id": "19",
+        "dolp_psnr": 25.11355953507391,
+        "vae_psnr": 26.932804964026626,
+        "diff": -1.8192454289527156
+      },
+      {
+        "scene_id": "72",
+        "dolp_psnr": 24.837558339647355,
+        "vae_psnr": 27.30329237313106,
+        "diff": -2.465734033483706
+      }
+    ],
+    "dolp_low_vae_high": [
+      {
+        "scene_id": "21",
+        "dolp_psnr": 19.734698529275793,
+        "vae_psnr": 27.539018313090008,
+        "diff": -7.804319783814215
+      },
+      {
+        "scene_id": "27",
+        "dolp_psnr": 22.065327886397885,
+        "vae_psnr": 29.789724676949636,
+        "diff": -7.724396790551751
+      },
+      {
+        "scene_id": "20",
+        "dolp_psnr": 20.114291145225895,
+        "vae_psnr": 27.739194176413797,
+        "diff": -7.624903031187902
+      },
+      {
+        "scene_id": "35",
+        "dolp_psnr": 21.23706711393427,
+        "vae_psnr": 28.00670591990153,
+        "diff": -6.769638805967261
+      },
+      {
+        "scene_id": "34",
+        "dolp_psnr": 22.107163595995605,
+        "vae_psnr": 27.64021873474121,
+        "diff": -5.533055138745606
+      },
+      {
+        "scene_id": "93",
+        "dolp_psnr": 24.446547093088128,
+        "vae_psnr": 29.364855515329463,
+        "diff": -4.918308422241335
+      },
+      {
+        "scene_id": "40",
+        "dolp_psnr": 24.291920995427564,
+        "vae_psnr": 28.244848489761353,
+        "diff": -3.952927494333789
+      },
+      {
+        "scene_id": "73",
+        "dolp_psnr": 24.064966986966038,
+        "vae_psnr": 27.89927020825838,
+        "diff": -3.834303221292341
+      }
+    ]
+  }
+}

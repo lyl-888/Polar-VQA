@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "17_0000_rgb.png",
+    "image": "rgb/17/0000_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.05555555555555555,
+      0.09765625
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.000, 0.000, 0.056, 0.098]?",
+      "a": "A blue cabinet with a glass door"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of metal with a blue paint finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue cabinet?",
+      "a": "Another blue cabinet"
+    }
+  },
+  {
+    "id": "17_0001_rgb.png",
+    "image": "rgb/17/0001_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.06781045751633986,
+      0.05078125
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.000, 0.000, 0.068, 0.051].",
+      "a": "A blue cabinet with a glass door"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of metal with a blue paint finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue cabinet?",
+      "a": "Another blue cabinet"
+    }
+  },
+  {
+    "id": "17_0002_rgb.png",
+    "image": "rgb/17/0002_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.18137254901960784,
+      0.14453125
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.000, 0.000, 0.181, 0.145].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0003_rgb.png",
+    "image": "rgb/17/0003_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.03676470588235294,
+      0.0,
+      0.1715686274509804,
+      0.08984375
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.037, 0.000, 0.172, 0.090].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0004_rgb.png",
+    "image": "rgb/17/0004_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.18872549019607843,
+      0.0,
+      0.28513071895424835,
+      0.1494140625
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.189, 0.000, 0.285, 0.149]?",
+      "a": "A blue cabinet with a glass door"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of metal with a blue paint finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash bin?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0005_rgb.png",
+    "image": "rgb/17/0005_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0006_rgb.png",
+    "image": "rgb/17/0006_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0007_rgb.png",
+    "image": "rgb/17/0007_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9607843137254902,
+      0.1591796875,
+      0.9918300653594772,
+      0.224609375
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.961, 0.159, 0.992, 0.225].",
+      "a": "A white sign with blue text"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the sign?",
+      "a": "It is made of white plastic with blue printed text"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the orange trash can?",
+      "a": "The white sign"
+    }
+  },
+  {
+    "id": "17_0008_rgb.png",
+    "image": "rgb/17/0008_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9607843137254902,
+      0.1484375,
+      1.0,
+      0.208984375
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.961, 0.148, 1.000, 0.209]?",
+      "a": "A guitar is visible in this region"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the guitar?",
+      "a": "The guitar has a natural wood finish with a glossy surface"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the guitar?",
+      "a": "There is no object to the right of the guitar"
+    }
+  },
+  {
+    "id": "17_0009_rgb.png",
+    "image": "rgb/17/0009_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.934640522875817,
+      0.45703125,
+      1.0,
+      0.5029296875
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.935, 0.457, 1.000, 0.503].",
+      "a": "A guitar is partially visible in the reflection"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the guitar?",
+      "a": "The guitar has a natural wood finish with a glossy surface"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the guitar?",
+      "a": "There is no object to the right of the guitar in this region"
+    }
+  },
+  {
+    "id": "17_0010_rgb.png",
+    "image": "rgb/17/0010_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.8031045751633987,
+      0.451171875,
+      0.8357843137254902,
+      0.4775390625
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.803, 0.451, 0.836, 0.478]?",
+      "a": "A person's hand holding a plastic bottle"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the object the person is holding?",
+      "a": "The object is a clear plastic bottle"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the orange trash can?",
+      "a": "A person's hand holding a plastic bottle"
+    }
+  },
+  {
+    "id": "17_0011_rgb.png",
+    "image": "rgb/17/0011_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.22058823529411764,
+      0.0,
+      0.3145424836601307,
+      0.11328125
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.221, 0.000, 0.315, 0.113]?",
+      "a": "A blue cabinet with a glass door"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of metal with a blue paint finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash bin?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0012_rgb.png",
+    "image": "rgb/17/0012_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.2622549019607843,
+      0.0,
+      0.3602941176470588,
+      0.1259765625
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.262, 0.000, 0.360, 0.126]?",
+      "a": "A blue cabinet with a glass door"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of metal with a blue paint finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash can?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0013_rgb.png",
+    "image": "rgb/17/0013_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.21241830065359477,
+      0.0,
+      0.3741830065359477,
+      0.2099609375
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.212, 0.000, 0.374, 0.210].",
+      "a": "A blue cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of blue painted wood with glass doors"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash bins?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0014_rgb.png",
+    "image": "rgb/17/0014_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.22549019607843138,
+      0.0,
+      0.3790849673202614,
+      0.19921875
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.225, 0.000, 0.379, 0.199]?",
+      "a": "A blue cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of blue painted wood with glass doors"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash bins?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0015_rgb.png",
+    "image": "rgb/17/0015_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.17892156862745098,
+      0.0,
+      0.36437908496732024,
+      0.189453125
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.179, 0.000, 0.364, 0.189]?",
+      "a": "A set of blue cabinets with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinets?",
+      "a": "They are made of metal with a glossy blue finish"
+    },
+    "qa_spatial": {
+      "q": "What is located above the cabinets?",
+      "a": "The top of the wall"
+    }
+  },
+  {
+    "id": "17_0016_rgb.png",
+    "image": "rgb/17/0016_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.07434640522875817,
+      0.0,
+      0.32107843137254904,
+      0.2236328125
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.074, 0.000, 0.321, 0.224]?",
+      "a": "A set of blue cabinets with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinets?",
+      "a": "They are made of a light blue material with a smooth finish"
+    },
+    "qa_spatial": {
+      "q": "What is located above the orange trash bins?",
+      "a": "The blue cabinets"
+    }
+  },
+  {
+    "id": "17_0017_rgb.png",
+    "image": "rgb/17/0017_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.3341503267973856,
+      0.232421875
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.000, 0.000, 0.334, 0.232]?",
+      "a": "A set of blue cabinets with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinets?",
+      "a": "They are made of a light blue material with a smooth finish"
+    },
+    "qa_spatial": {
+      "q": "What is located above the orange trash bins?",
+      "a": "The blue cabinets"
+    }
+  },
+  {
+    "id": "17_0018_rgb.png",
+    "image": "rgb/17/0018_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.29820261437908496,
+      0.189453125
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.000, 0.000, 0.298, 0.189]?",
+      "a": "A set of blue cabinets with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinets?",
+      "a": "They are made of a light blue material with a smooth finish"
+    },
+    "qa_spatial": {
+      "q": "What is located above the orange trash bins?",
+      "a": "The blue cabinets"
+    }
+  },
+  {
+    "id": "17_0019_rgb.png",
+    "image": "rgb/17/0019_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.09765625,
+      0.26552287581699346,
+      0.2158203125
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.000, 0.098, 0.266, 0.216].",
+      "a": "A set of blue cabinets with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinets?",
+      "a": "They are made of a light blue material with a smooth finish"
+    },
+    "qa_spatial": {
+      "q": "What is located above the orange trash bins?",
+      "a": "The blue cabinets"
+    }
+  },
+  {
+    "id": "17_0020_rgb.png",
+    "image": "rgb/17/0020_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.076171875,
+      0.2246732026143791,
+      0.185546875
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.000, 0.076, 0.225, 0.186]?",
+      "a": "A set of blue cabinets with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinets?",
+      "a": "They are made of metal with a glossy blue finish"
+    },
+    "qa_spatial": {
+      "q": "What is located above the orange trash bins?",
+      "a": "The blue cabinets"
+    }
+  },
+  {
+    "id": "17_0021_rgb.png",
+    "image": "rgb/17/0021_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.052734375,
+      0.14705882352941177,
+      0.1494140625
+    ],
+    "qa_content": {
+      "q": "Focus on region [0.000, 0.053, 0.147, 0.149]. What is this?",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0022_rgb.png",
+    "image": "rgb/17/0022_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.20179738562091504,
+      0.044921875,
+      0.3014705882352941,
+      0.1064453125
+    ],
+    "qa_content": {
+      "q": "Focus on region [0.202, 0.045, 0.301, 0.106]. What is this?",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0023_rgb.png",
+    "image": "rgb/17/0023_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.1527777777777778,
+      0.029296875,
+      0.2589869281045752,
+      0.0927734375
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.153, 0.029, 0.259, 0.093]?",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0024_rgb.png",
+    "image": "rgb/17/0024_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0727124183006536,
+      0.0693359375,
+      0.17973856209150327,
+      0.1328125
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.073, 0.069, 0.180, 0.133]?",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0025_rgb.png",
+    "image": "rgb/17/0025_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.05473856209150327,
+      0.0625,
+      0.16094771241830066,
+      0.1259765625
+    ],
+    "qa_content": {
+      "q": "Focus on region [0.055, 0.062, 0.161, 0.126]. What is this?",
+      "a": "A blue cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of blue painted wood with glass doors"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue cabinet?",
+      "a": "An orange recycling bin"
+    }
+  },
+  {
+    "id": "17_0026_rgb.png",
+    "image": "rgb/17/0026_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.14297385620915032,
+      0.0830078125,
+      0.24836601307189543,
+      0.146484375
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.143, 0.083, 0.248, 0.146].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0027_rgb.png",
+    "image": "rgb/17/0027_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.060546875,
+      0.13725490196078433,
+      0.154296875
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.000, 0.061, 0.137, 0.154].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0028_rgb.png",
+    "image": "rgb/17/0028_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0693359375,
+      0.2295751633986928,
+      0.1796875
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.000, 0.069, 0.230, 0.180].",
+      "a": "A set of blue cabinets with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinets?",
+      "a": "They are made of metal with a glossy blue finish"
+    },
+    "qa_spatial": {
+      "q": "What is located above the orange trash bins?",
+      "a": "The blue cabinets"
+    }
+  },
+  {
+    "id": "17_0029_rgb.png",
+    "image": "rgb/17/0029_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.041666666666666664,
+      0.056640625,
+      0.33578431372549017,
+      0.1650390625
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.042, 0.057, 0.336, 0.165]?",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0030_rgb.png",
+    "image": "rgb/17/0030_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.056372549019607844,
+      0.0,
+      0.32598039215686275,
+      0.2060546875
+    ],
+    "qa_content": {
+      "q": "Focus on region [0.056, 0.000, 0.326, 0.206]. What is this?",
+      "a": "A set of blue cabinets with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinets?",
+      "a": "They are made of a light blue material with a smooth finish"
+    },
+    "qa_spatial": {
+      "q": "What is located above the orange trash bins?",
+      "a": "The blue cabinets"
+    }
+  },
+  {
+    "id": "17_0031_rgb.png",
+    "image": "rgb/17/0031_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.16176470588235295,
+      0.0,
+      0.369281045751634,
+      0.224609375
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.162, 0.000, 0.369, 0.225].",
+      "a": "A blue cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of blue painted wood with glass doors"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash bins?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0032_rgb.png",
+    "image": "rgb/17/0032_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.30718954248366015,
+      0.015625,
+      0.3946078431372549,
+      0.2041015625
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.307, 0.016, 0.395, 0.204].",
+      "a": "A blue cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of metal with a blue paint finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash bin?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0033_rgb.png",
+    "image": "rgb/17/0033_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.2965686274509804,
+      0.07421875,
+      0.3799019607843137,
+      0.1630859375
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.297, 0.074, 0.380, 0.163].",
+      "a": "A blue cabinet with a glass door"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of wood with a blue paint finish and has a glass door"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue cabinet?",
+      "a": "Another blue cabinet"
+    }
+  },
+  {
+    "id": "17_0034_rgb.png",
+    "image": "rgb/17/0034_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9125816993464052,
+      0.517578125,
+      0.9869281045751634,
+      0.5634765625
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.913, 0.518, 0.987, 0.563].",
+      "a": "A guitar"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the guitar?",
+      "a": "It has a natural wood finish with a glossy surface"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the orange trash can?",
+      "a": "The guitar"
+    }
+  },
+  {
+    "id": "17_0035_rgb.png",
+    "image": "rgb/17/0035_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9616013071895425,
+      0.1591796875,
+      0.9934640522875817,
+      0.2177734375
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.962, 0.159, 0.993, 0.218].",
+      "a": "A sign with white text on a blue background"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the sign?",
+      "a": "The sign is made of a reflective material with white text on a blue background"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the orange trash can?",
+      "a": "The sign"
+    }
+  },
+  {
+    "id": "17_0036_rgb.png",
+    "image": "rgb/17/0036_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.954248366013072,
+      0.048828125,
+      1.0,
+      0.0830078125
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.954, 0.049, 1.000, 0.083]?",
+      "a": "A colorful sign with Chinese characters"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the sign?",
+      "a": "It has a vibrant red background with white and yellow text"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the orange trash can?",
+      "a": "The colorful sign"
+    }
+  },
+  {
+    "id": "17_0037_rgb.png",
+    "image": "rgb/17/0037_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9550653594771242,
+      0.048828125,
+      1.0,
+      0.08984375
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.955, 0.049, 1.000, 0.090]?",
+      "a": "A window with a view of the sky"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the window?",
+      "a": "It has a clear glass pane with a white frame"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue wall?",
+      "a": "The window"
+    }
+  },
+  {
+    "id": "17_0038_rgb.png",
+    "image": "rgb/17/0038_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9550653594771242,
+      0.048828125,
+      1.0,
+      0.076171875
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.955, 0.049, 1.000, 0.076]?",
+      "a": "A blue cabinet with a glass door"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of wood with a blue paint finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash can?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0039_rgb.png",
+    "image": "rgb/17/0039_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0040_rgb.png",
+    "image": "rgb/17/0040_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9550653594771242,
+      0.048828125,
+      1.0,
+      0.1845703125
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.955, 0.049, 1.000, 0.185].",
+      "a": "A window with a dark frame"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the window frame?",
+      "a": "The window frame is made of dark metal"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue wall?",
+      "a": "The window"
+    }
+  },
+  {
+    "id": "17_0041_rgb.png",
+    "image": "rgb/17/0041_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9550653594771242,
+      0.048828125,
+      1.0,
+      0.0771484375
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.955, 0.049, 1.000, 0.077]?",
+      "a": "A window with a dark frame"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the window frame?",
+      "a": "The window frame is made of dark metal"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue wall?",
+      "a": "The window"
+    }
+  },
+  {
+    "id": "17_0042_rgb.png",
+    "image": "rgb/17/0042_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.07434640522875817,
+      0.041015625,
+      0.16830065359477125,
+      0.1982421875
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.074, 0.041, 0.168, 0.198].",
+      "a": "A blue cabinet with a glass door"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of metal with a blue paint finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash bins?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0043_rgb.png",
+    "image": "rgb/17/0043_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.15359477124183007,
+      0.0,
+      0.2508169934640523,
+      0.13671875
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.154, 0.000, 0.251, 0.137].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0044_rgb.png",
+    "image": "rgb/17/0044_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.06290849673202614,
+      0.2216796875
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.000, 0.000, 0.063, 0.222].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0045_rgb.png",
+    "image": "rgb/17/0045_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.09395424836601307,
+      0.1220703125
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.000, 0.000, 0.094, 0.122]?",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0046_rgb.png",
+    "image": "rgb/17/0046_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.09722222222222222,
+      0.0,
+      0.2826797385620915,
+      0.1259765625
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.097, 0.000, 0.283, 0.126].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0047_rgb.png",
+    "image": "rgb/17/0047_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.23529411764705882,
+      0.0,
+      0.3946078431372549,
+      0.1318359375
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.235, 0.000, 0.395, 0.132]?",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0048_rgb.png",
+    "image": "rgb/17/0048_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.3300653594771242,
+      0.0,
+      0.3946078431372549,
+      0.0849609375
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.330, 0.000, 0.395, 0.085].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0049_rgb.png",
+    "image": "rgb/17/0049_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0050_rgb.png",
+    "image": "rgb/17/0050_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0051_rgb.png",
+    "image": "rgb/17/0051_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.619281045751634,
+      0.0,
+      0.6299019607843137,
+      0.115234375
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.619, 0.000, 0.630, 0.115]?",
+      "a": "A white building with a pointed roof"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the building?",
+      "a": "It is painted white and appears to be made of stone"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash can?",
+      "a": "The white building"
+    }
+  },
+  {
+    "id": "17_0052_rgb.png",
+    "image": "rgb/17/0052_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0053_rgb.png",
+    "image": "rgb/17/0053_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9599673202614379,
+      0.0498046875,
+      1.0,
+      0.130859375
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.960, 0.050, 1.000, 0.131].",
+      "a": "A blue cabinet with a handle"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of metal with a blue paint finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash can?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0054_rgb.png",
+    "image": "rgb/17/0054_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0055_rgb.png",
+    "image": "rgb/17/0055_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0056_rgb.png",
+    "image": "rgb/17/0056_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.954248366013072,
+      0.048828125,
+      1.0,
+      0.3466796875
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.954, 0.049, 1.000, 0.347].",
+      "a": "A window with a white frame"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the window frame?",
+      "a": "The window frame is white and made of metal"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue wall?",
+      "a": "The window"
+    }
+  },
+  {
+    "id": "17_0057_rgb.png",
+    "image": "rgb/17/0057_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.954248366013072,
+      0.048828125,
+      1.0,
+      0.345703125
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.954, 0.049, 1.000, 0.346].",
+      "a": "A blue cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of blue painted wood with glass doors"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash can?",
+      "a": "The blue cabinet"
+    }
+  },
+  {
+    "id": "17_0058_rgb.png",
+    "image": "rgb/17/0058_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.1854575163398693,
+      0.0,
+      0.375,
+      0.46875
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.185, 0.000, 0.375, 0.469].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0059_rgb.png",
+    "image": "rgb/17/0059_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.16094771241830066,
+      0.0,
+      0.34967320261437906,
+      0.1875
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.161, 0.000, 0.350, 0.188]?",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0060_rgb.png",
+    "image": "rgb/17/0060_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0061_rgb.png",
+    "image": "rgb/17/0061_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0062_rgb.png",
+    "image": "rgb/17/0062_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  },
+  {
+    "id": "17_0063_rgb.png",
+    "image": "rgb/17/0063_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9665032679738562,
+      0.2451171875,
+      1.0,
+      0.294921875
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.967, 0.245, 1.000, 0.295].",
+      "a": "A small tree with dark green leaves"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the tree?",
+      "a": "It has dark green leaves and a brown trunk"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the orange trash can?",
+      "a": "The small tree"
+    }
+  },
+  {
+    "id": "17_0064_rgb.png",
+    "image": "rgb/17/0064_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9689542483660131,
+      0.1357421875,
+      1.0,
+      0.2021484375
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.969, 0.136, 1.000, 0.202].",
+      "a": "A red metal can with a white label"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the can?",
+      "a": "It has a matte red finish with a metallic texture"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue wall?",
+      "a": "The red metal can"
+    }
+  },
+  {
+    "id": "17_0065_rgb.png",
+    "image": "rgb/17/0065_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9673202614379085,
+      0.1181640625,
+      0.9975490196078431,
+      0.17578125
+    ],
+    "qa_content": {
+      "q": "Focus on region [0.967, 0.118, 0.998, 0.176]. What is this?",
+      "a": "A sign with text and graphics"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the sign?",
+      "a": "It has a white background with black text and graphics"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the orange trash can?",
+      "a": "The sign"
+    }
+  },
+  {
+    "id": "17_0066_rgb.png",
+    "image": "rgb/17/0066_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9591503267973857,
+      0.107421875,
+      1.0,
+      0.1650390625
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.959, 0.107, 1.000, 0.165].",
+      "a": "A person wearing a white shirt and blue jeans"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the person's clothing?",
+      "a": "The person is wearing a white cotton shirt and blue denim jeans"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue wall?",
+      "a": "The person wearing a white shirt and blue jeans"
+    }
+  },
+  {
+    "id": "17_0067_rgb.png",
+    "image": "rgb/17/0067_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.9771241830065359,
+      0.0859375,
+      1.0,
+      0.1494140625
+    ],
+    "qa_content": {
+      "q": "What is the object located at [0.977, 0.086, 1.000, 0.149]?",
+      "a": "A section of a blue wall with a white line"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the wall?",
+      "a": "The wall is painted blue and appears to be made of brick"
+    },
+    "qa_spatial": {
+      "q": "What is located to the left of the orange trash can?",
+      "a": "The blue wall"
+    }
+  },
+  {
+    "id": "17_0068_rgb.png",
+    "image": "rgb/17/0068_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.031862745098039214,
+      0.0,
+      0.2107843137254902,
+      0.1240234375
+    ],
+    "qa_content": {
+      "q": "Identify the object in the bounding box [0.032, 0.000, 0.211, 0.124].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0069_rgb.png",
+    "image": "rgb/17/0069_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      0.13970588235294118,
+      0.1484375
+    ],
+    "qa_content": {
+      "q": "Describe the object in region [0.000, 0.000, 0.140, 0.148].",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0070_rgb.png",
+    "image": "rgb/17/0070_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.08741830065359477,
+      0.0,
+      0.22630718954248366,
+      0.095703125
+    ],
+    "qa_content": {
+      "q": "What object is in region [0.087, 0.000, 0.226, 0.096]?",
+      "a": "A vintage wooden cabinet with glass doors"
+    },
+    "qa_detail": {
+      "q": "What are the color and material of the cabinet?",
+      "a": "It is made of dark mahogany wood with a polished finish"
+    },
+    "qa_spatial": {
+      "q": "What is located to the right of the blue chair?",
+      "a": "The wooden cabinet"
+    }
+  },
+  {
+    "id": "17_0071_rgb.png",
+    "image": "rgb/17/0071_rgb.png",
+    "gt_image": "GT/17/0000_rgb.png",
+    "scene_id": "17",
+    "bbox_norm": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "qa_content": {
+      "q": "Describe the visual content of this image.",
+      "a": "The image shows two orange recycling bins placed against a blue brick wall. The bins have circular openings on the top and are labeled with recycling symbols and text in both Chinese and English. The left bin is labeled for recyclable materials, and the right bin is labeled for residual waste. Above the bins, there are blue cabinets attached to the wall."
+    },
+    "qa_detail": null,
+    "qa_spatial": null
+  }
+]

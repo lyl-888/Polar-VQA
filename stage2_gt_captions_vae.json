@@ -1,0 +1,30 @@
+[
+  {
+    "id": "23_0000_rgb.png_crop",
+    "image": "rgb_crop/23/0000_rgb.png",
+    "gt_image": "GT_crop/23/0000_rgb.png",
+    "scene_id": "23",
+    "bbox_norm": [
+      0.0478515625,
+      0.4803921568627451,
+      0.51953125,
+      0.6323529411764706
+    ],
+    "polar_crop_paths": {
+      "I_0": "polar_crop/23/0000_000.png",
+      "I_45": "polar_crop/23/0000_045.png",
+      "I_90": "polar_crop/23/0000_090.png",
+      "I_135": "polar_crop/23/0000_135.png"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the image"
+      },
+      {
+        "from": "gpt",
+        "value": "A potted plant with yellow leaves, placed on a metal stand with a circular base, situated on a blue surface. The plant is in a pot with a black rim. The background is out of focus, but it appears to be a window with bars"
+      }
+    ]
+  }
+]

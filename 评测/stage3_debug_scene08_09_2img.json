@@ -1,0 +1,110 @@
+[
+  {
+    "image": "GT/05/0000_rgb.png",
+    "input_path": "rgb/05/0000_rgb.png",
+    "gt_path": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "type": "typeB_visual",
+    "subtype": "positive",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the sign hidden by glare on the surface."
+      },
+      {
+        "from": "gpt",
+        "value": "A green sign with white text"
+      }
+    ]
+  },
+  {
+    "image": "GT/05/0000_rgb.png",
+    "input_path": "rgb/05/0000_rgb.png",
+    "gt_path": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "type": "typeB_visual",
+    "subtype": "physics",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the reflection showing in the image?"
+      },
+      {
+        "from": "gpt",
+        "value": "The reflection is mainly in the top-left corner, appearing as tree. This is indicated by the high polarization signal in that area."
+      }
+    ]
+  },
+  {
+    "image": "GT/05/0000_rgb.png",
+    "input_path": "rgb/05/0000_rgb.png",
+    "gt_path": "GT/05/0000_rgb.png",
+    "scene_id": "05",
+    "type": "typeB_visual",
+    "subtype": "negative",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is there actually a tree near the top-left corner?"
+      },
+      {
+        "from": "gpt",
+        "value": "No. the tree is a reflection appearing in the top-left corner of the image The high polarization indicates it is a reflection or glare on the surface, not a real physical object."
+      }
+    ]
+  },
+  {
+    "image": "GT/06/0000_rgb.png",
+    "input_path": "rgb/06/0000_rgb.png",
+    "gt_path": "GT/06/0000_rgb.png",
+    "scene_id": "06",
+    "type": "typeB_visual",
+    "subtype": "positive",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the mailbox obscured by the glare."
+      },
+      {
+        "from": "gpt",
+        "value": "A red mailbox with a white emblem on its front"
+      }
+    ]
+  },
+  {
+    "image": "GT/06/0000_rgb.png",
+    "input_path": "rgb/06/0000_rgb.png",
+    "gt_path": "GT/06/0000_rgb.png",
+    "scene_id": "06",
+    "type": "typeB_visual",
+    "subtype": "physics",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the reflection in the image."
+      },
+      {
+        "from": "gpt",
+        "value": "The reflection is mainly in the center, appearing as bright light source. This is indicated by the high polarization signal in that area."
+      }
+    ]
+  },
+  {
+    "image": "GT/06/0000_rgb.png",
+    "input_path": "rgb/06/0000_rgb.png",
+    "gt_path": "GT/06/0000_rgb.png",
+    "scene_id": "06",
+    "type": "typeB_visual",
+    "subtype": "negative",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is there actually a bright light source near the center?"
+      },
+      {
+        "from": "gpt",
+        "value": "No. The bright light source appears in the upper center of the image and is a reflection The high polarization indicates it is a reflection or glare on the surface, not a real physical object."
+      }
+    ]
+  }
+]
